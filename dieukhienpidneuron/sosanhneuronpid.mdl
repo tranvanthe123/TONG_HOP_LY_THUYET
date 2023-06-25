@@ -1,0 +1,5621 @@
+Model {
+  Name			  "sosanhneuronpid"
+  Version		  9.0
+  SavedCharacterEncoding  "windows-1252"
+  GraphicalInterface {
+    NumRootInports	    0
+    NumRootOutports	    0
+    ParameterArgumentNames  ""
+    ComputedModelVersion    "1.3"
+    NumModelReferences	    0
+    NumTestPointedSignals   0
+    NumProvidedFunctions    0
+    NumRequiredFunctions    0
+    NumResetEvents	    0
+    HasInitializeEvent	    0
+    HasTerminateEvent	    0
+    IsExportFunctionModel   0
+    NumParameterArguments   0
+    NumExternalFileReferences 44
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod1"
+      SID		      "343"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod10"
+      SID		      "344"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod11"
+      SID		      "345"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod12"
+      SID		      "346"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod13"
+      SID		      "347"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod14"
+      SID		      "348"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod15"
+      SID		      "349"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod16"
+      SID		      "350"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod17"
+      SID		      "351"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod18"
+      SID		      "352"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod19"
+      SID		      "353"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod2"
+      SID		      "354"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod20"
+      SID		      "355"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod21"
+      SID		      "356"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod22"
+      SID		      "357"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod23"
+      SID		      "358"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod24"
+      SID		      "359"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod25"
+      SID		      "360"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod26"
+      SID		      "361"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod27"
+      SID		      "362"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod28"
+      SID		      "363"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod29"
+      SID		      "364"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod3"
+      SID		      "365"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod30"
+      SID		      "366"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod31"
+      SID		      "367"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod32"
+      SID		      "368"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod33"
+      SID		      "369"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod34"
+      SID		      "370"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod35"
+      SID		      "371"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod36"
+      SID		      "372"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod37"
+      SID		      "373"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod38"
+      SID		      "374"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod39"
+      SID		      "375"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod4"
+      SID		      "376"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod40"
+      SID		      "377"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod5"
+      SID		      "378"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod6"
+      SID		      "379"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod7"
+      SID		      "380"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod8"
+      SID		      "381"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/IW{1,1}/dotprod9"
+      SID		      "382"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Transfer Functions/tansig"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 1/tansig"
+      SID		      "386"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Weight Functions/dotprod"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 2/LW{2,1}/dotprod1"
+      SID		      "398"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "neural/Transfer Functions/purelin"
+      Path		      "sosanhneuronpid/neuron /Custom Neural Network/Layer 2/purelin"
+      SID		      "402"
+      Type		      "LIBRARY_BLOCK"
+    }
+    ExternalFileReference {
+      Reference		      "simulink/Discrete/Discrete Derivative"
+      Path		      "sosanhneuronpid/pid roi rac/Discrete Derivative"
+      SID		      "137"
+      Type		      "LIBRARY_BLOCK"
+    }
+    OrderedModelArguments   1
+  }
+  LogicAnalyzerGraphicalSettings ""
+  LogicAnalyzerPlugin	  "on"
+  LogicAnalyzerSignalOrdering ""
+  DiagnosticSuppressor	  "on"
+  SuppressorTable	  "22 serialization::archive 11 0 6 0 0 0 8 0"
+  CustomCodeFunctionData  ""
+  SLCCPlugin		  "on"
+  slprops.hdlmdlprops {
+    $PropName		    "HDLParams"
+    $ObjectID		    1
+    Array {
+      Type		      "Cell"
+      Dimension		      2
+      Cell		      "HDLSubsystem"
+      Cell		      "$bdroot"
+      PropName		      "mdlProps"
+    }
+  }
+  ScopeRefreshTime	  0.035000
+  OverrideScopeRefreshTime on
+  DisableAllScopes	  off
+  DataTypeOverride	  "UseLocalSettings"
+  DataTypeOverrideAppliesTo "AllNumericTypes"
+  MinMaxOverflowLogging	  "UseLocalSettings"
+  MinMaxOverflowArchiveMode "Overwrite"
+  FPTRunName		  "Run 1"
+  MaxMDLFileLineLength	  120
+  LastSavedArchitecture	  "win64"
+  Object {
+    $PropName		    "BdWindowsInfo"
+    $ObjectID		    2
+    $ClassName		    "Simulink.BDWindowsInfo"
+    Object {
+      $PropName		      "WindowsInfo"
+      $ObjectID		      3
+      $ClassName	      "Simulink.WindowInfo"
+      IsActive		      [1]
+      Location		      [-7.0, 0.0, 697.0, 735.0]
+      Object {
+	$PropName		"ModelBrowserInfo"
+	$ObjectID		4
+	$ClassName		"Simulink.ModelBrowserInfo"
+	Visible			[1]
+	DockPosition		"Left"
+	Width			[50]
+	Height			[50]
+	Filter			[9]
+      }
+      Object {
+	$PropName		"ExplorerBarInfo"
+	$ObjectID		5
+	$ClassName		"Simulink.ExplorerBarInfo"
+	Visible			[1]
+      }
+      Object {
+	$PropName		"EditorsInfo"
+	$ObjectID		6
+	$ClassName		"Simulink.EditorInfo"
+	IsActive		[1]
+	ViewObjType		"SimulinkSubsys"
+	LoadSaveID		"156"
+	Extents			[643.0, 554.0]
+	ZoomFactor		[1.0]
+	Offset			[-197.03333333333353, -96.083333333333371]
+      }
+      Object {
+	$PropName		"DockComponentsInfo"
+	$ObjectID		7
+	$ClassName		"Simulink.DockComponentInfo"
+	Type			"GLUE2:PropertyInspector"
+	ID			"Property Inspector"
+	Visible			[0]
+	CreateCallback		""
+	UserData		""
+	Floating		[0]
+	DockPosition		"Right"
+	Width			[300]
+	Height			[656]
+      }
+      WindowState	      "AAAA/wAAAAD9AAAAAgAAAAAAAAC9AAAB+PwCAAAAA/sAAAAWAEQAbwBjAGsAVwBpAGQAZwBlAHQAMwEAAAAxAAAB+AAAA"
+      "AAAAAAA+wAAABYARABvAGMAawBXAGkAZABnAGUAdAA0AAAAAAD/////AAAAAAAAAAD7AAAAUgBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0Ac"
+      "ABvAG4AZQBuAHQALwBHAEwAVQBFADIAIAB0AHIAZQBlACAAYwBvAG0AcABvAG4AZQBuAHQAAAAAAP////8AAABjAP///wAAAAEAAAAAAAAAAPwCA"
+      "AAAAfsAAABUAEcATABVAEUAMgA6AFAAcgBvAHAAZQByAHQAeQBJAG4AcwBwAGUAYwB0AG8AcgAvAFAAcgBvAHAAZQByAHQAeQAgAEkAbgBzAHAAZ"
+      "QBjAHQAbwByAAAAAAD/////AAAAjQD///8AAAKpAAACYwAAAAEAAAACAAAAAQAAAAL8AAAABAAAAAAAAAAAAAAAAQAAAAAAAAACAAAAD/////8AA"
+      "AAAAP////8AAAAAAAAAAP////8BAAAAAP////8AAAAAAAAAAP////8AAAAAAP////8AAAAAAAAAAP////8AAAAAAP////8AAAAAAAAAAP////8AA"
+      "AAAAP////8AAAAAAAAAAP////8BAAAAef////8AAAAAAAAAAP////8BAAAA2v////8AAAAAAAAAAP////8AAAAAAP////8AAAAAAAAAAP////8BA"
+      "AABU/////8AAAAAAAAAAP////8AAAAAAP////8AAAAAAAAAAP////8AAAAAAP////8AAAAAAAAAAP////8AAAAAAP////8AAAAAAAAAAP////8BA"
+      "AACS/////8AAAAAAAAAAP////8BAAACev////8AAAAAAAAAAP////8AAAAAAP////8AAAAAAAAAAAAAAAMAAAAA"
+    }
+  }
+  HideAutomaticNames	  on
+  Created		  "Thu Dec 24 03:54:22 2020"
+  Creator		  "TDNhon"
+  UpdateHistory		  "UpdateHistoryNever"
+  ModifiedByFormat	  "%<Auto>"
+  LastModifiedBy	  "DELL"
+  ModifiedDateFormat	  "%<Auto>"
+  LastModifiedDate	  "Sun May 28 18:38:01 2023"
+  RTWModifiedTimeStamp	  607197552
+  ModelVersionFormat	  "1.%<AutoIncrement:3>"
+  SampleTimeColors	  off
+  SampleTimeAnnotations	  off
+  LibraryLinkDisplay	  "disabled"
+  WideLines		  off
+  ShowLineDimensions	  off
+  ShowPortDataTypes	  off
+  PortDataTypeDisplayFormat "AliasTypeOnly"
+  ShowEditTimeErrors	  on
+  ShowEditTimeWarnings	  on
+  ShowEditTimeAdvisorChecks off
+  ShowPortUnits		  off
+  ShowDesignRanges	  off
+  ShowLoopsOnError	  on
+  IgnoreBidirectionalLines off
+  ShowStorageClass	  off
+  ShowTestPointIcons	  on
+  ShowSignalResolutionIcons on
+  ShowViewerIcons	  on
+  SortedOrder		  off
+  VariantCondition	  off
+  ExecutionContextIcon	  off
+  ShowLinearizationAnnotations on
+  ShowVisualizeInsertedRTB on
+  ShowMarkup		  on
+  BlockNameDataTip	  off
+  BlockParametersDataTip  off
+  BlockDescriptionStringDataTip	off
+  BlockVariantConditionDataTip off
+  ToolBar		  on
+  StatusBar		  on
+  BrowserShowLibraryLinks off
+  FunctionConnectors	  off
+  BrowserLookUnderMasks	  off
+  SimulationMode	  "normal"
+  VisualizeLoggedSignalsWhenLoggingToFile off
+  PauseTimes		  "5"
+  NumberOfSteps		  1
+  SnapshotBufferSize	  10
+  SnapshotInterval	  10
+  NumberOfLastSnapshots	  0
+  LinearizationMsg	  "none"
+  Profile		  off
+  ParamWorkspaceSource	  "MATLABWorkspace"
+  AccelSystemTargetFile	  "accel.tlc"
+  AccelTemplateMakefile	  "accel_default_tmf"
+  AccelMakeCommand	  "make_rtw"
+  TryForcingSFcnDF	  off
+  Object {
+    $PropName		    "DataLoggingOverride"
+    $ObjectID		    8
+    $ClassName		    "Simulink.SimulationData.ModelLoggingInfo"
+    model_		    "sosanhneuronpid"
+    overrideMode_	    [0.0]
+    Array {
+      Type		      "Cell"
+      Dimension		      1
+      Cell		      "sosanhneuronpid"
+      PropName		      "logAsSpecifiedByModels_"
+    }
+    Array {
+      Type		      "Cell"
+      Dimension		      1
+      Cell		      []
+      PropName		      "logAsSpecifiedByModelsSSIDs_"
+    }
+  }
+  ExtModeBatchMode	  off
+  ExtModeEnableFloating	  on
+  ExtModeTrigType	  "manual"
+  ExtModeTrigMode	  "normal"
+  ExtModeTrigPort	  "1"
+  ExtModeTrigElement	  "any"
+  ExtModeTrigDuration	  1000
+  ExtModeTrigDurationFloating "auto"
+  ExtModeTrigHoldOff	  0
+  ExtModeTrigDelay	  0
+  ExtModeTrigDirection	  "rising"
+  ExtModeTrigLevel	  0
+  ExtModeArchiveMode	  "off"
+  ExtModeAutoIncOneShot	  off
+  ExtModeIncDirWhenArm	  off
+  ExtModeAddSuffixToVar	  off
+  ExtModeWriteAllDataToWs off
+  ExtModeArmWhenConnect	  on
+  ExtModeSkipDownloadWhenConnect off
+  ExtModeLogAll		  on
+  ExtModeAutoUpdateStatusClock on
+  ShowModelReferenceBlockVersion off
+  ShowModelReferenceBlockIO off
+  OrderedModelArguments	  on
+  Array {
+    Type		    "Handle"
+    Dimension		    1
+    Simulink.ConfigSet {
+      $ObjectID		      9
+      Version		      "1.17.1"
+      DisabledProps	      []
+      Description	      ""
+      Array {
+	Type			"Handle"
+	Dimension		10
+	Simulink.SolverCC {
+	  $ObjectID		  10
+	  Version		  "1.17.1"
+	  DisabledProps		  []
+	  Description		  ""
+	  StartTime		  "0.0"
+	  StopTime		  "10.0"
+	  AbsTol		  "auto"
+	  FixedStep		  "0.1"
+	  InitialStep		  "auto"
+	  MaxOrder		  5
+	  ZcThreshold		  "auto"
+	  ConsecutiveZCsStepRelTol "10*128*eps"
+	  MaxConsecutiveZCs	  "1000"
+	  ExtrapolationOrder	  4
+	  NumberNewtonIterations  1
+	  MaxStep		  "auto"
+	  MinStep		  "auto"
+	  MaxConsecutiveMinStep	  "1"
+	  RelTol		  "1e-3"
+	  EnableMultiTasking	  off
+	  ConcurrentTasks	  off
+	  Solver		  "FixedStepAuto"
+	  SolverName		  "FixedStepAuto"
+	  SolverJacobianMethodControl "auto"
+	  ShapePreserveControl	  "DisableAll"
+	  ZeroCrossControl	  "UseLocalSettings"
+	  ZeroCrossAlgorithm	  "Nonadaptive"
+	  AlgebraicLoopSolver	  "TrustRegion"
+	  SolverInfoToggleStatus  on
+	  IsAutoAppliedInSIP	  off
+	  SolverResetMethod	  "Fast"
+	  PositivePriorityOrder	  off
+	  AutoInsertRateTranBlk	  off
+	  SampleTimeConstraint	  "Unconstrained"
+	  InsertRTBMode		  "Whenever possible"
+	  SampleTimeProperty	  []
+	  DecoupledContinuousIntegration off
+	}
+	Simulink.DataIOCC {
+	  $ObjectID		  11
+	  Version		  "1.17.1"
+	  DisabledProps		  []
+	  Description		  ""
+	  Decimation		  "1"
+	  ExternalInput		  "[t, u]"
+	  FinalStateName	  "xFinal"
+	  InitialState		  "xInitial"
+	  LimitDataPoints	  off
+	  MaxDataPoints		  "1000"
+	  LoadExternalInput	  off
+	  LoadInitialState	  off
+	  SaveFinalState	  off
+	  SaveCompleteFinalSimState off
+	  SaveFormat		  "Dataset"
+	  SignalLoggingSaveFormat "Dataset"
+	  SaveOutput		  on
+	  SaveState		  off
+	  SignalLogging		  on
+	  DSMLogging		  on
+	  InspectSignalLogs	  off
+	  VisualizeSimOutput	  on
+	  StreamToWorkspace	  off
+	  StreamVariableName	  "streamout"
+	  SaveTime		  on
+	  ReturnWorkspaceOutputs  on
+	  StateSaveName		  "xout"
+	  TimeSaveName		  "tout"
+	  OutputSaveName	  "yout"
+	  SignalLoggingName	  "logsout"
+	  DSMLoggingName	  "dsmout"
+	  OutputOption		  "RefineOutputTimes"
+	  OutputTimes		  "[]"
+	  ReturnWorkspaceOutputsName "out"
+	  Refine		  "1"
+	  LoggingToFile		  off
+	  DatasetSignalFormat	  "timeseries"
+	  LoggingFileName	  "out.mat"
+	  LoggingIntervals	  "[-inf, inf]"
+	}
+	Simulink.OptimizationCC {
+	  $ObjectID		  12
+	  Version		  "1.17.1"
+	  Array {
+	    Type		    "Cell"
+	    Dimension		    8
+	    Cell		    "BooleansAsBitfields"
+	    Cell		    "PassReuseOutputArgsAs"
+	    Cell		    "PassReuseOutputArgsThreshold"
+	    Cell		    "ZeroExternalMemoryAtStartup"
+	    Cell		    "ZeroInternalMemoryAtStartup"
+	    Cell		    "OptimizeModelRefInitCode"
+	    Cell		    "NoFixptDivByZeroProtection"
+	    Cell		    "UseSpecifiedMinMax"
+	    PropName		    "DisabledProps"
+	  }
+	  Description		  ""
+	  BlockReduction	  on
+	  BooleanDataType	  on
+	  ConditionallyExecuteInputs on
+	  DefaultParameterBehavior "Tunable"
+	  UseDivisionForNetSlopeComputation "off"
+	  UseFloatMulNetSlope	  off
+	  DefaultUnderspecifiedDataType	"double"
+	  UseSpecifiedMinMax	  off
+	  InlineInvariantSignals  off
+	  OptimizeBlockIOStorage  on
+	  BufferReuse		  on
+	  EnhancedBackFolding	  off
+	  CachingGlobalReferences off
+	  GlobalBufferReuse	  on
+	  StrengthReduction	  off
+	  AdvancedOptControl	  ""
+	  ExpressionFolding	  on
+	  BooleansAsBitfields	  off
+	  BitfieldContainerType	  "uint_T"
+	  EnableMemcpy		  on
+	  MemcpyThreshold	  64
+	  PassReuseOutputArgsAs	  "Structure reference"
+	  PassReuseOutputArgsThreshold 12
+	  ExpressionDepthLimit	  128
+	  LocalBlockOutputs	  on
+	  RollThreshold		  5
+	  StateBitsets		  off
+	  DataBitsets		  off
+	  ActiveStateOutputEnumStorageType "Native Integer"
+	  ZeroExternalMemoryAtStartup on
+	  ZeroInternalMemoryAtStartup on
+	  InitFltsAndDblsToZero	  off
+	  NoFixptDivByZeroProtection off
+	  EfficientFloat2IntCast  off
+	  EfficientMapNaN2IntZero on
+	  LifeSpan		  "auto"
+	  MaxStackSize		  "Inherit from target"
+	  BufferReusableBoundary  on
+	  SimCompilerOptimization "off"
+	  AccelVerboseBuild	  off
+	  OptimizeBlockOrder	  "off"
+	  OptimizeDataStoreBuffers on
+	  BusAssignmentInplaceUpdate on
+	  DifferentSizesBufferReuse off
+	}
+	Simulink.DebuggingCC {
+	  $ObjectID		  13
+	  Version		  "1.17.1"
+	  Array {
+	    Type		    "Cell"
+	    Dimension		    1
+	    Cell		    "UseOnlyExistingSharedCode"
+	    PropName		    "DisabledProps"
+	  }
+	  Description		  ""
+	  RTPrefix		  "error"
+	  ConsistencyChecking	  "none"
+	  ArrayBoundsChecking	  "none"
+	  SignalInfNanChecking	  "none"
+	  SignalRangeChecking	  "none"
+	  ReadBeforeWriteMsg	  "UseLocalSettings"
+	  WriteAfterWriteMsg	  "UseLocalSettings"
+	  WriteAfterReadMsg	  "UseLocalSettings"
+	  AlgebraicLoopMsg	  "warning"
+	  ArtificialAlgebraicLoopMsg "warning"
+	  SaveWithDisabledLinksMsg "warning"
+	  SaveWithParameterizedLinksMsg	"warning"
+	  CheckSSInitialOutputMsg on
+	  UnderspecifiedInitializationDetection	"Simplified"
+	  MergeDetectMultiDrivingBlocksExec "error"
+	  CheckExecutionContextPreStartOutputMsg off
+	  CheckExecutionContextRuntimeOutputMsg	off
+	  SignalResolutionControl "UseLocalSettings"
+	  BlockPriorityViolationMsg "warning"
+	  MinStepSizeMsg	  "warning"
+	  TimeAdjustmentMsg	  "none"
+	  MaxConsecutiveZCsMsg	  "error"
+	  MaskedZcDiagnostic	  "warning"
+	  IgnoredZcDiagnostic	  "warning"
+	  SolverPrmCheckMsg	  "none"
+	  InheritedTsInSrcMsg	  "warning"
+	  MultiTaskDSMMsg	  "error"
+	  MultiTaskCondExecSysMsg "error"
+	  MultiTaskRateTransMsg	  "error"
+	  SingleTaskRateTransMsg  "none"
+	  TasksWithSamePriorityMsg "warning"
+	  ExportedTasksRateTransMsg "none"
+	  SigSpecEnsureSampleTimeMsg "warning"
+	  CheckMatrixSingularityMsg "none"
+	  IntegerOverflowMsg	  "warning"
+	  Int32ToFloatConvMsg	  "warning"
+	  ParameterDowncastMsg	  "error"
+	  ParameterOverflowMsg	  "error"
+	  ParameterUnderflowMsg	  "none"
+	  ParameterPrecisionLossMsg "warning"
+	  ParameterTunabilityLossMsg "warning"
+	  FixptConstUnderflowMsg  "none"
+	  FixptConstOverflowMsg	  "none"
+	  FixptConstPrecisionLossMsg "none"
+	  UnderSpecifiedDataTypeMsg "none"
+	  UnnecessaryDatatypeConvMsg "none"
+	  VectorMatrixConversionMsg "none"
+	  InvalidFcnCallConnMsg	  "error"
+	  FcnCallInpInsideContextMsg "error"
+	  SignalLabelMismatchMsg  "none"
+	  UnconnectedInputMsg	  "warning"
+	  UnconnectedOutputMsg	  "warning"
+	  UnconnectedLineMsg	  "warning"
+	  UseOnlyExistingSharedCode "error"
+	  SFcnCompatibilityMsg	  "none"
+	  FrameProcessingCompatibilityMsg "error"
+	  UniqueDataStoreMsg	  "none"
+	  BusObjectLabelMismatch  "warning"
+	  RootOutportRequireBusObject "warning"
+	  AssertControl		  "UseLocalSettings"
+	  AllowSymbolicDim	  on
+	  RowMajorDimensionSupport off
+	  ModelReferenceIOMsg	  "none"
+	  ModelReferenceMultiInstanceNormalModeStructChecksumCheck "error"
+	  ModelReferenceVersionMismatchMessage "none"
+	  ModelReferenceIOMismatchMessage "none"
+	  UnknownTsInhSupMsg	  "warning"
+	  ModelReferenceDataLoggingMessage "warning"
+	  ModelReferenceSymbolNameMessage "warning"
+	  ModelReferenceExtraNoncontSigs "error"
+	  StateNameClashWarn	  "none"
+	  SimStateInterfaceChecksumMismatchMsg "warning"
+	  SimStateOlderReleaseMsg "error"
+	  ChecksumConsistencyForSSReuse	"none"
+	  InitInArrayFormatMsg	  "warning"
+	  StrictBusMsg		  "ErrorLevel1"
+	  BusNameAdapt		  "WarnAndRepair"
+	  NonBusSignalsTreatedAsBus "none"
+	  SymbolicDimMinMaxWarning "warning"
+	  LossOfSymbolicDimsSimulationWarning "warning"
+	  LossOfSymbolicDimsCodeGenerationWarning "error"
+	  SymbolicDimsDataTypeCodeGenerationDiagnostic "error"
+	  BlockIODiagnostic	  "none"
+	  SFUnusedDataAndEventsDiag "warning"
+	  SFUnexpectedBacktrackingDiag "error"
+	  SFInvalidInputDataAccessInChartInitDiag "warning"
+	  SFNoUnconditionalDefaultTransitionDiag "error"
+	  SFTransitionOutsideNaturalParentDiag "warning"
+	  SFUnreachableExecutionPathDiag "warning"
+	  SFUndirectedBroadcastEventsDiag "warning"
+	  SFTransitionActionBeforeConditionDiag	"warning"
+	  SFOutputUsedAsStateInMooreChartDiag "error"
+	  SFTemporalDelaySmallerThanSampleTimeDiag "warning"
+	  SFSelfTransitionDiag	  "warning"
+	  SFExecutionAtInitializationDiag "warning"
+	  SFMachineParentedDataDiag "warning"
+	  IntegerSaturationMsg	  "warning"
+	  AllowedUnitSystems	  "all"
+	  UnitsInconsistencyMsg	  "warning"
+	  AllowAutomaticUnitConversions	on
+	  RCSCRenamedMsg	  "warning"
+	  RCSCObservableMsg	  "warning"
+	  ForceCombineOutputUpdateInSim	off
+	  UnitDatabase		  ""
+	}
+	Simulink.HardwareCC {
+	  $ObjectID		  14
+	  Version		  "1.17.1"
+	  DisabledProps		  []
+	  Description		  ""
+	  ProdBitPerChar	  8
+	  ProdBitPerShort	  16
+	  ProdBitPerInt		  32
+	  ProdBitPerLong	  32
+	  ProdBitPerLongLong	  64
+	  ProdBitPerFloat	  32
+	  ProdBitPerDouble	  64
+	  ProdBitPerPointer	  64
+	  ProdBitPerSizeT	  64
+	  ProdBitPerPtrDiffT	  64
+	  ProdLargestAtomicInteger "Char"
+	  ProdLargestAtomicFloat  "Float"
+	  ProdIntDivRoundTo	  "Zero"
+	  ProdEndianess		  "LittleEndian"
+	  ProdWordSize		  64
+	  ProdShiftRightIntArith  on
+	  ProdLongLongMode	  off
+	  ProdHWDeviceType	  "Intel->x86-64 (Windows64)"
+	  TargetBitPerChar	  8
+	  TargetBitPerShort	  16
+	  TargetBitPerInt	  32
+	  TargetBitPerLong	  32
+	  TargetBitPerLongLong	  64
+	  TargetBitPerFloat	  32
+	  TargetBitPerDouble	  64
+	  TargetBitPerPointer	  32
+	  TargetBitPerSizeT	  32
+	  TargetBitPerPtrDiffT	  32
+	  TargetLargestAtomicInteger "Char"
+	  TargetLargestAtomicFloat "None"
+	  TargetShiftRightIntArith on
+	  TargetLongLongMode	  off
+	  TargetIntDivRoundTo	  "Undefined"
+	  TargetEndianess	  "Unspecified"
+	  TargetWordSize	  32
+	  TargetPreprocMaxBitsSint 32
+	  TargetPreprocMaxBitsUint 32
+	  TargetHWDeviceType	  "Specified"
+	  TargetUnknown		  off
+	  ProdEqTarget		  on
+	  UseEmbeddedCoderFeatures on
+	  UseSimulinkCoderFeatures on
+	}
+	Simulink.ModelReferenceCC {
+	  $ObjectID		  15
+	  Version		  "1.17.1"
+	  DisabledProps		  []
+	  Description		  ""
+	  UpdateModelReferenceTargets "IfOutOfDateOrStructuralChange"
+	  EnableRefExpFcnMdlSchedulingChecks on
+	  CheckModelReferenceTargetMessage "error"
+	  EnableParallelModelReferenceBuilds off
+	  ParallelModelReferenceErrorOnInvalidPool on
+	  ParallelModelReferenceMATLABWorkerInit "None"
+	  ModelReferenceNumInstancesAllowed "Multi"
+	  PropagateVarSize	  "Infer from blocks in model"
+	  ModelDependencies	  ""
+	  ModelReferencePassRootInputsByReference on
+	  ModelReferenceMinAlgLoopOccurrences off
+	  PropagateSignalLabelsOutOfModel on
+	  SupportModelReferenceSimTargetCustomCode off
+	}
+	Simulink.SFSimCC {
+	  $ObjectID		  16
+	  Version		  "1.17.1"
+	  DisabledProps		  []
+	  Description		  ""
+	  SimCustomSourceCode	  ""
+	  SimCustomHeaderCode	  ""
+	  SimCustomInitializer	  ""
+	  SimCustomTerminator	  ""
+	  SimReservedNameArray	  []
+	  SimUserSources	  ""
+	  SimUserIncludeDirs	  ""
+	  SimUserLibraries	  ""
+	  SimUserDefines	  ""
+	  SimCustomCompilerFlags  ""
+	  SimCustomLinkerFlags	  ""
+	  SFSimEcho		  on
+	  SimCtrlC		  on
+	  SimIntegrity		  on
+	  SimUseLocalCustomCode	  on
+	  SimParseCustomCode	  on
+	  SimBuildMode		  "sf_incremental_build"
+	  SimGenImportedTypeDefs  off
+	  ModelFunctionsGlobalVisibility "on"
+	  CompileTimeRecursionLimit 50
+	  EnableRuntimeRecursion  on
+	  MATLABDynamicMemAlloc	  on
+	  MATLABDynamicMemAllocThreshold 65536
+	}
+	Simulink.RTWCC {
+	  $BackupClass		  "Simulink.RTWCC"
+	  $ObjectID		  17
+	  Version		  "1.17.1"
+	  Array {
+	    Type		    "Cell"
+	    Dimension		    16
+	    Cell		    "IncludeHyperlinkInReport"
+	    Cell		    "GenerateTraceInfo"
+	    Cell		    "GenerateTraceReport"
+	    Cell		    "GenerateTraceReportSl"
+	    Cell		    "GenerateTraceReportSf"
+	    Cell		    "GenerateTraceReportEml"
+	    Cell		    "PortableWordSizes"
+	    Cell		    "GenerateWebview"
+	    Cell		    "GenerateCodeMetricsReport"
+	    Cell		    "GenerateCodeReplacementReport"
+	    Cell		    "GenerateMissedCodeReplacementReport"
+	    Cell		    "GenerateErtSFunction"
+	    Cell		    "CreateSILPILBlock"
+	    Cell		    "CodeExecutionProfiling"
+	    Cell		    "CodeProfilingSaveOptions"
+	    Cell		    "CodeProfilingInstrumentation"
+	    PropName		    "DisabledProps"
+	  }
+	  SystemTargetFile	  "grt.tlc"
+	  HardwareBoard		  "None"
+	  TLCOptions		  ""
+	  GenCodeOnly		  off
+	  MakeCommand		  "make_rtw"
+	  GenerateMakefile	  on
+	  PackageGeneratedCodeAndArtifacts off
+	  PackageName		  ""
+	  TemplateMakefile	  "grt_default_tmf"
+	  PostCodeGenCommand	  ""
+	  Description		  ""
+	  GenerateReport	  off
+	  SaveLog		  off
+	  RTWVerbose		  on
+	  RetainRTWFile		  off
+	  RTWBuildHooks		  []
+	  ProfileTLC		  off
+	  TLCDebug		  off
+	  TLCCoverage		  off
+	  TLCAssert		  off
+	  RTWUseLocalCustomCode	  on
+	  RTWUseSimCustomCode	  off
+	  CustomSourceCode	  ""
+	  CustomHeaderCode	  ""
+	  CustomInclude		  ""
+	  CustomSource		  ""
+	  CustomLibrary		  ""
+	  CustomDefine		  ""
+	  CustomLAPACKCallback	  ""
+	  CustomFFTCallback	  ""
+	  CustomInitializer	  ""
+	  CustomTerminator	  ""
+	  Toolchain		  "Automatically locate an installed toolchain"
+	  BuildConfiguration	  "Faster Builds"
+	  CustomToolchainOptions  []
+	  IncludeHyperlinkInReport off
+	  LaunchReport		  off
+	  PortableWordSizes	  off
+	  CreateSILPILBlock	  "None"
+	  CodeExecutionProfiling  off
+	  CodeExecutionProfileVariable "executionProfile"
+	  CodeProfilingSaveOptions "SummaryOnly"
+	  CodeProfilingInstrumentation off
+	  SILDebugging		  off
+	  TargetLang		  "C"
+	  IncludeBusHierarchyInRTWFileBlockHierarchyMap	off
+	  GenerateTraceInfo	  off
+	  GenerateTraceReport	  off
+	  GenerateTraceReportSl	  off
+	  GenerateTraceReportSf	  off
+	  GenerateTraceReportEml  off
+	  GenerateWebview	  off
+	  GenerateCodeMetricsReport off
+	  GenerateCodeReplacementReport	off
+	  GenerateMissedCodeReplacementReport off
+	  RTWCompilerOptimization "off"
+	  ObjectivePriorities	  []
+	  RTWCustomCompilerOptimizations ""
+	  CheckMdlBeforeBuild	  "Off"
+	  SharedConstantsCachingThreshold 1024
+	  Array {
+	    Type		    "Handle"
+	    Dimension		    2
+	    Simulink.CodeAppCC {
+	      $ObjectID		      18
+	      Version		      "1.17.1"
+	      Array {
+		Type			"Cell"
+		Dimension		28
+		Cell			"IgnoreCustomStorageClasses"
+		Cell			"IgnoreTestpoints"
+		Cell			"BlockCommentType"
+		Cell			"InsertBlockDesc"
+		Cell			"InsertPolySpaceComments"
+		Cell			"SFDataObjDesc"
+		Cell			"MATLABFcnDesc"
+		Cell			"SimulinkDataObjDesc"
+		Cell			"DefineNamingRule"
+		Cell			"SignalNamingRule"
+		Cell			"ParamNamingRule"
+		Cell			"InternalIdentifier"
+		Cell			"InlinedPrmAccess"
+		Cell			"CustomSymbolStr"
+		Cell			"CustomSymbolStrGlobalVar"
+		Cell			"CustomSymbolStrType"
+		Cell			"CustomSymbolStrField"
+		Cell			"CustomSymbolStrFcn"
+		Cell			"CustomSymbolStrModelFcn"
+		Cell			"CustomSymbolStrFcnArg"
+		Cell			"CustomSymbolStrBlkIO"
+		Cell			"CustomSymbolStrTmpVar"
+		Cell			"CustomSymbolStrMacro"
+		Cell			"CustomSymbolStrUtil"
+		Cell			"CustomSymbolStrEmxType"
+		Cell			"CustomSymbolStrEmxFcn"
+		Cell			"CustomUserTokenString"
+		Cell			"ReqsInCode"
+		PropName		"DisabledProps"
+	      }
+	      Description	      ""
+	      Comment		      ""
+	      ForceParamTrailComments off
+	      GenerateComments	      on
+	      CommentStyle	      "Auto"
+	      IgnoreCustomStorageClasses on
+	      IgnoreTestpoints	      off
+	      MaxIdLength	      31
+	      PreserveName	      off
+	      PreserveNameWithParent  off
+	      ShowEliminatedStatement off
+	      OperatorAnnotations     off
+	      SimulinkDataObjDesc     off
+	      SFDataObjDesc	      off
+	      MATLABFcnDesc	      off
+	      MangleLength	      1
+	      SharedChecksumLength    8
+	      CustomSymbolStrGlobalVar "$R$N$M"
+	      CustomSymbolStrType     "$N$R$M_T"
+	      CustomSymbolStrField    "$N$M"
+	      CustomSymbolStrFcn      "$R$N$M$F"
+	      CustomSymbolStrModelFcn "$R$N"
+	      CustomSymbolStrFcnArg   "rt$I$N$M"
+	      CustomSymbolStrBlkIO    "rtb_$N$M"
+	      CustomSymbolStrTmpVar   "$N$M"
+	      CustomSymbolStrMacro    "$R$N$M"
+	      CustomSymbolStrUtil     "$N$C"
+	      CustomSymbolStrEmxType  "emxArray_$M$N"
+	      CustomSymbolStrEmxFcn   "emx$M$N"
+	      CustomUserTokenString   ""
+	      CustomCommentsFcn	      ""
+	      DefineNamingRule	      "None"
+	      DefineNamingFcn	      ""
+	      ParamNamingRule	      "None"
+	      ParamNamingFcn	      ""
+	      SignalNamingRule	      "None"
+	      SignalNamingFcn	      ""
+	      InsertBlockDesc	      off
+	      InsertPolySpaceComments off
+	      SimulinkBlockComments   on
+	      StateflowObjectComments off
+	      MATLABSourceComments    off
+	      EnableCustomComments    off
+	      InternalIdentifierFile  ""
+	      InternalIdentifier      "Shortened"
+	      InlinedPrmAccess	      "Literals"
+	      ReqsInCode	      off
+	      UseSimReservedNames     off
+	      ReservedNameArray	      []
+	    }
+	    Simulink.GRTTargetCC {
+	      $BackupClass	      "Simulink.TargetCC"
+	      $ObjectID		      19
+	      Version		      "1.17.1"
+	      Array {
+		Type			"Cell"
+		Dimension		16
+		Cell			"IncludeMdlTerminateFcn"
+		Cell			"SuppressErrorStatus"
+		Cell			"ERTCustomFileBanners"
+		Cell			"GenerateSampleERTMain"
+		Cell			"ExistingSharedCode"
+		Cell			"GenerateTestInterfaces"
+		Cell			"ModelStepFunctionPrototypeControlCompliant"
+		Cell			"GenerateAllocFcn"
+		Cell			"PurelyIntegerCode"
+		Cell			"SupportComplex"
+		Cell			"SupportAbsoluteTime"
+		Cell			"SupportContinuousTime"
+		Cell			"SupportNonInlinedSFcns"
+		Cell			"RemoveDisableFunc"
+		Cell			"RemoveResetFunc"
+		Cell			"PreserveStateflowLocalDataDimensions"
+		PropName		"DisabledProps"
+	      }
+	      Description	      ""
+	      TargetFcnLib	      "ansi_tfl_table_tmw.mat"
+	      TargetLibSuffix	      ""
+	      TargetPreCompLibLocation ""
+	      GenFloatMathFcnCalls    "NOT IN USE"
+	      TargetLangStandard      "C99 (ISO)"
+	      CodeReplacementLibrary  "None"
+	      UtilityFuncGeneration   "Auto"
+	      MultiwordTypeDef	      "System defined"
+	      MultiwordLength	      2048
+	      GenerateFullHeader      on
+	      InferredTypesCompatibility off
+	      ExistingSharedCode      ""
+	      GenerateSampleERTMain   off
+	      GenerateTestInterfaces  off
+	      ModelReferenceCompliant on
+	      ParMdlRefBuildCompliant on
+	      CompOptLevelCompliant   on
+	      ConcurrentExecutionCompliant on
+	      IncludeMdlTerminateFcn  on
+	      GeneratePreprocessorConditionals "Use local settings"
+	      CombineOutputUpdateFcns on
+	      CombineSignalStateStructs	off
+	      SuppressErrorStatus     off
+	      IncludeFileDelimiter    "Auto"
+	      ERTCustomFileBanners    off
+	      SupportAbsoluteTime     on
+	      LogVarNameModifier      "rt_"
+	      MatFileLogging	      on
+	      MultiInstanceERTCode    off
+	      CodeInterfacePackaging  "Nonreusable function"
+	      SupportNonFinite	      on
+	      SupportComplex	      on
+	      PurelyIntegerCode	      off
+	      SupportContinuousTime   on
+	      SupportNonInlinedSFcns  on
+	      RemoveDisableFunc	      off
+	      RemoveResetFunc	      off
+	      SupportVariableSizeSignals off
+	      ParenthesesLevel	      "Nominal"
+	      CastingMode	      "Nominal"
+	      MATLABClassNameForMDSCustomization "Simulink.SoftwareTarget.GRTCustomization"
+	      ModelStepFunctionPrototypeControlCompliant off
+	      CPPClassGenCompliant    on
+	      AutosarCompliant	      off
+	      MDXCompliant	      off
+	      GRTInterface	      off
+	      GenerateAllocFcn	      off
+	      UseToolchainInfoCompliant	on
+	      GenerateSharedConstants on
+	      CoderGroups	      []
+	      AccessMethods	      []
+	      LookupTableObjectStructAxisOrder "1,2,3,4,..."
+	      LUTObjectStructOrderExplicitValues "Size,Breakpoints,Table"
+	      LUTObjectStructOrderEvenSpacing "Size,Breakpoints,Table"
+	      ArrayLayout	      "Column-major"
+	      UseMalloc		      off
+	      ExtMode		      off
+	      ExtModeStaticAlloc      off
+	      ExtModeTesting	      off
+	      ExtModeStaticAllocSize  1000000
+	      ExtModeTransport	      0
+	      ExtModeMexFile	      "ext_comm"
+	      ExtModeMexArgs	      ""
+	      ExtModeIntrfLevel	      "Level1"
+	      RTWCAPISignals	      off
+	      RTWCAPIParams	      off
+	      RTWCAPIStates	      off
+	      RTWCAPIRootIO	      off
+	      GenerateASAP2	      off
+	      MultiInstanceErrorCode  "Error"
+	    }
+	    PropName		    "Components"
+	  }
+	}
+	SlCovCC.ConfigComp {
+	  $ObjectID		  20
+	  Version		  "1.17.1"
+	  DisabledProps		  []
+	  Description		  "Simulink Coverage Configuration Component"
+	  Name			  "Simulink Coverage"
+	  CovEnable		  off
+	  CovScope		  "EntireSystem"
+	  CovIncludeTopModel	  on
+	  RecordCoverage	  off
+	  CovPath		  "/"
+	  CovSaveName		  "covdata"
+	  CovCompData		  ""
+	  CovMetricSettings	  "dwe"
+	  CovFilter		  ""
+	  CovHTMLOptions	  ""
+	  CovNameIncrementing	  off
+	  CovHtmlReporting	  off
+	  CovForceBlockReductionOff on
+	  CovEnableCumulative	  on
+	  CovSaveCumulativeToWorkspaceVar off
+	  CovSaveSingleToWorkspaceVar off
+	  CovCumulativeVarName	  "covCumulativeData"
+	  CovCumulativeReport	  off
+	  CovSaveOutputData	  on
+	  CovOutputDir		  "slcov_output/$ModelName$"
+	  CovDataFileName	  "$ModelName$_cvdata"
+	  CovShowResultsExplorer  on
+	  CovReportOnPause	  on
+	  CovModelRefEnable	  "off"
+	  CovModelRefExcluded	  ""
+	  CovExternalEMLEnable	  on
+	  CovSFcnEnable		  on
+	  CovBoundaryAbsTol	  1e-05
+	  CovBoundaryRelTol	  0.01
+	  CovUseTimeInterval	  off
+	  CovStartTime		  0
+	  CovStopTime		  0
+	  CovMcdcMode		  "Masking"
+	}
+	hdlcoderui.hdlcc {
+	  $ObjectID		  21
+	  Version		  "1.17.1"
+	  DisabledProps		  []
+	  Description		  "HDL Coder custom configuration component"
+	  Name			  "HDL Coder"
+	  Array {
+	    Type		    "Cell"
+	    Dimension		    1
+	    Cell		    " "
+	    PropName		    "HDLConfigFile"
+	  }
+	  HDLCActiveTab		  "0"
+	}
+	PropName		"Components"
+      }
+      Name		      "Configuration"
+      ExtraOptions	      ""
+      CurrentDlgPage	      "Solver"
+      ConfigPrmDlgPosition    [ 287, 55, 1207, 683 ]
+    }
+    PropName		    "ConfigurationSets"
+  }
+  Simulink.ConfigSet {
+    $PropName		    "ActiveConfigurationSet"
+    $ObjectID		    9
+  }
+  Object {
+    $PropName		    "DataTransfer"
+    $ObjectID		    22
+    $ClassName		    "Simulink.GlobalDataTransfer"
+    DefaultTransitionBetweenSyncTasks "Ensure deterministic transfer (maximum delay)"
+    DefaultTransitionBetweenAsyncTasks "Ensure data integrity only"
+    DefaultTransitionBetweenContTasks "Ensure deterministic transfer (minimum delay)"
+    DefaultExtrapolationMethodBetweenContTasks "None"
+    AutoInsertRateTranBlk   [0]
+  }
+  ExplicitPartitioning	  off
+  BlockDefaults {
+    ForegroundColor	    "black"
+    BackgroundColor	    "white"
+    DropShadow		    off
+    NamePlacement	    "normal"
+    FontName		    "Helvetica"
+    FontSize		    10
+    FontWeight		    "normal"
+    FontAngle		    "normal"
+    ShowName		    on
+    HideAutomaticName	    on
+    BlockRotation	    0
+    BlockMirror		    off
+  }
+  AnnotationDefaults {
+    HorizontalAlignment	    "left"
+    VerticalAlignment	    "top"
+    ForegroundColor	    "black"
+    BackgroundColor	    "white"
+    DropShadow		    off
+    FontName		    "Helvetica"
+    FontSize		    10
+    FontWeight		    "normal"
+    FontAngle		    "normal"
+    MarkupType		    "model"
+    UseDisplayTextAsClickCallback off
+    AnnotationType	    "note_annotation"
+    FixedHeight		    off
+    FixedWidth		    off
+    Interpreter		    "off"
+  }
+  LineDefaults {
+    FontName		    "Helvetica"
+    FontSize		    9
+    FontWeight		    "normal"
+    FontAngle		    "normal"
+  }
+  MaskDefaults {
+    SelfModifiable	    "off"
+    IconFrame		    "on"
+    IconOpaque		    "opaque"
+    RunInitForIconRedraw    "analyze"
+    IconRotate		    "none"
+    PortRotate		    "default"
+    IconUnits		    "autoscale"
+  }
+  MaskParameterDefaults {
+    Evaluate		    "on"
+    Tunable		    "on"
+    NeverSave		    "off"
+    Internal		    "off"
+    ReadOnly		    "off"
+    Enabled		    "on"
+    Visible		    "on"
+    ToolTip		    "on"
+  }
+  BlockParameterDefaults {
+    Block {
+      BlockType		      Constant
+      Value		      "1"
+      VectorParams1D	      on
+      SamplingMode	      "Sample based"
+      OutMin		      "[]"
+      OutMax		      "[]"
+      OutDataTypeStr	      "Inherit: Inherit from 'Constant value'"
+      LockScale		      off
+      SampleTime	      "inf"
+      FramePeriod	      "inf"
+      PreserveConstantTs      off
+    }
+    Block {
+      BlockType		      DiscreteIntegrator
+      IntegratorMethod	      "Integration: Forward Euler"
+      gainval		      "1.0"
+      ExternalReset	      "none"
+      InitialConditionSource  "internal"
+      InitialCondition	      "0"
+      InitialConditionSetting "Output"
+      SampleTime	      "1"
+      OutMin		      "[]"
+      OutMax		      "[]"
+      OutDataTypeStr	      "Inherit: Inherit via internal rule"
+      LockScale		      off
+      RndMeth		      "Floor"
+      SaturateOnIntegerOverflow	off
+      LimitOutput	      off
+      UpperSaturationLimit    "inf"
+      LowerSaturationLimit    "-inf"
+      ShowSaturationPort      off
+      ShowStatePort	      off
+      IgnoreLimit	      off
+      StateMustResolveToSignalObject off
+      RTWStateStorageClass    "Auto"
+    }
+    Block {
+      BlockType		      Fcn
+      Expr		      "sin(u[1])"
+      SampleTime	      "-1"
+    }
+    Block {
+      BlockType		      From
+      GotoTag		      "A"
+      IconDisplay	      "Tag"
+      TagVisibility	      "local"
+    }
+    Block {
+      BlockType		      Gain
+      Gain		      "1"
+      Multiplication	      "Element-wise(K.*u)"
+      ParamMin		      "[]"
+      ParamMax		      "[]"
+      ParamDataTypeStr	      "Inherit: Same as input"
+      OutMin		      "[]"
+      OutMax		      "[]"
+      OutDataTypeStr	      "Inherit: Same as input"
+      LockScale		      off
+      RndMeth		      "Floor"
+      SaturateOnIntegerOverflow	on
+      SampleTime	      "-1"
+    }
+    Block {
+      BlockType		      Goto
+      GotoTag		      "A"
+      IconDisplay	      "Tag"
+      TagVisibility	      "local"
+    }
+    Block {
+      BlockType		      Inport
+      Port		      "1"
+      OutputFunctionCall      off
+      OutMin		      "[]"
+      OutMax		      "[]"
+      OutDataTypeStr	      "Inherit: auto"
+      LockScale		      off
+      BusOutputAsStruct	      off
+      Unit		      "inherit"
+      PortDimensions	      "-1"
+      VarSizeSig	      "Inherit"
+      SampleTime	      "-1"
+      SignalType	      "auto"
+      SamplingMode	      "auto"
+      LatchByDelayingOutsideSignal off
+      LatchInputForFeedbackSignals off
+      Interpolate	      on
+    }
+    Block {
+      BlockType		      Integrator
+      ExternalReset	      "none"
+      InitialConditionSource  "internal"
+      InitialCondition	      "0"
+      LimitOutput	      off
+      UpperSaturationLimit    "inf"
+      LowerSaturationLimit    "-inf"
+      WrapState		      off
+      WrappedStateUpperValue  "pi"
+      WrappedStateLowerValue  "-pi"
+      ShowSaturationPort      off
+      ShowStatePort	      off
+      AbsoluteTolerance	      "auto"
+      IgnoreLimit	      off
+      ZeroCross		      on
+      ContinuousStateAttributes	"''"
+    }
+    Block {
+      BlockType		      Mux
+      Inputs		      "4"
+      DisplayOption	      "none"
+      UseBusObject	      off
+      BusObject		      "BusObject"
+      NonVirtualBus	      off
+    }
+    Block {
+      BlockType		      Outport
+      Port		      "1"
+      OutMin		      "[]"
+      OutMax		      "[]"
+      OutDataTypeStr	      "Inherit: auto"
+      LockScale		      off
+      BusOutputAsStruct	      off
+      Unit		      "inherit"
+      PortDimensions	      "-1"
+      VarSizeSig	      "Inherit"
+      SampleTime	      "-1"
+      SignalType	      "auto"
+      SamplingMode	      "auto"
+      EnsureOutportIsVirtual  off
+      SourceOfInitialOutputValue "Dialog"
+      OutputWhenDisabled      "held"
+      InitialOutput	      "[]"
+      MustResolveToSignalObject	off
+      OutputWhenUnConnected   off
+      OutputWhenUnconnectedValue "0"
+      VectorParamsAs1DForOutWhenUnconnected off
+    }
+    Block {
+      BlockType		      Saturate
+      UpperLimitSource	      "Dialog"
+      UpperLimit	      "0.5"
+      LowerLimitSource	      "Dialog"
+      LowerLimit	      "-0.5"
+      LinearizeAsGain	      on
+      ZeroCross		      on
+      SampleTime	      "-1"
+      OutMin		      "[]"
+      OutMax		      "[]"
+      OutDataTypeStr	      "Inherit: Same as input"
+      LockScale		      off
+      RndMeth		      "Floor"
+    }
+    Block {
+      BlockType		      Scope
+      DefaultConfigurationName "Simulink.scopes.TimeScopeBlockCfg"
+      Floating		      off
+    }
+    Block {
+      BlockType		      SubSystem
+      ShowPortLabels	      "FromPortIcon"
+      Permissions	      "ReadWrite"
+      PermitHierarchicalResolution "All"
+      TreatAsAtomicUnit	      off
+      MinAlgLoopOccurrences   off
+      PropExecContextOutsideSubsystem off
+      SystemSampleTime	      "-1"
+      RTWSystemCode	      "Auto"
+      RTWFcnNameOpts	      "Auto"
+      RTWFileNameOpts	      "Auto"
+      FunctionInterfaceSpec   "void_void"
+      FunctionWithSeparateData off
+      RTWMemSecFuncInitTerm   "Inherit from model"
+      RTWMemSecFuncExecute    "Inherit from model"
+      RTWMemSecDataConstants  "Inherit from model"
+      RTWMemSecDataInternal   "Inherit from model"
+      RTWMemSecDataParameters "Inherit from model"
+      SimViewingDevice	      off
+      DataTypeOverride	      "UseLocalSettings"
+      DataTypeOverrideAppliesTo	"AllNumericTypes"
+      MinMaxOverflowLogging   "UseLocalSettings"
+      Opaque		      off
+      MaskHideContents	      off
+      SFBlockType	      "NONE"
+      GeneratePreprocessorConditionals off
+      AllowZeroVariantControls off
+      PropagateVariantConditions off
+      TreatAsGroupedWhenPropagatingVariantConditions on
+      ContentPreviewEnabled   off
+      IsWebBlock	      off
+      IsObserver	      off
+    }
+    Block {
+      BlockType		      Sum
+      IconShape		      "rectangular"
+      Inputs		      "++"
+      CollapseMode	      "All dimensions"
+      CollapseDim	      "1"
+      InputSameDT	      on
+      AccumDataTypeStr	      "Inherit: Inherit via internal rule"
+      OutMin		      "[]"
+      OutMax		      "[]"
+      OutDataTypeStr	      "Inherit: Same as first input"
+      LockScale		      off
+      RndMeth		      "Floor"
+      SaturateOnIntegerOverflow	on
+      SampleTime	      "-1"
+    }
+    Block {
+      BlockType		      UnitDelay
+      InitialCondition	      "0"
+      InputProcessing	      "Inherited"
+      SampleTime	      "1"
+      StateMustResolveToSignalObject off
+      CodeGenStateStorageClass "Auto"
+      HasFrameUpgradeWarning  on
+    }
+  }
+  System {
+    Name		    "sosanhneuronpid"
+    Location		    [-7, 0, 690, 728]
+    Open		    off
+    PortBlocksUseCompactNotation off
+    ModelBrowserVisibility  off
+    ModelBrowserWidth	    200
+    ScreenColor		    "white"
+    PaperOrientation	    "landscape"
+    PaperPositionMode	    "auto"
+    PaperType		    "usletter"
+    PaperUnits		    "inches"
+    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
+    TiledPageScale	    1
+    ShowPageBoundaries	    off
+    ZoomFactor		    "100"
+    ReportName		    "simulink-default.rpt"
+    SIDHighWatermark	    "411"
+    Block {
+      BlockType		      Sum
+      Name		      "Add"
+      SID		      "124"
+      Ports		      [2, 1]
+      Position		      [410, 322, 440, 353]
+      ZOrder		      10
+      Inputs		      "+-"
+      InputSameDT	      off
+      OutDataTypeStr	      "Inherit: Inherit via internal rule"
+      SaturateOnIntegerOverflow	off
+    }
+    Block {
+      BlockType		      Sum
+      Name		      "Add1"
+      SID		      "145"
+      Ports		      [2, 1]
+      Position		      [165, 107, 195, 138]
+      ZOrder		      18
+      Inputs		      "+-"
+      InputSameDT	      off
+      OutDataTypeStr	      "Inherit: Inherit via internal rule"
+      SaturateOnIntegerOverflow	off
+    }
+    Block {
+      BlockType		      Mux
+      Name		      "Mux"
+      SID		      "169"
+      Ports		      [2, 1]
+      Position		      [700, 151, 705, 189]
+      ZOrder		      24
+      ShowName		      off
+      Inputs		      "2"
+      DisplayOption	      "bar"
+    }
+    Block {
+      BlockType		      Saturate
+      Name		      "Saturation"
+      SID		      "125"
+      Ports		      [1, 1]
+      Position		      [555, 325, 585, 355]
+      ZOrder		      14
+      InputPortMap	      "u0"
+      UpperLimit	      "12"
+      LowerLimit	      "0"
+    }
+    Block {
+      BlockType		      Saturate
+      Name		      "Saturation1"
+      SID		      "146"
+      Ports		      [1, 1]
+      Position		      [310, 110, 340, 140]
+      ZOrder		      22
+      InputPortMap	      "u0"
+      UpperLimit	      "12"
+      LowerLimit	      "0"
+    }
+    Block {
+      BlockType		      Scope
+      Name		      "Scope"
+      SID		      "126"
+      Ports		      [1]
+      Position		      [800, 339, 830, 371]
+      ZOrder		      12
+      ScopeSpecificationString "Simulink.scopes.TimeScopeBlockCfg('CurrentConfiguration', extmgr.ConfigurationSet(extm"
+      "gr.Configuration('Core','General UI',true),extmgr.Configuration('Core','Source UI',true),extmgr.Configuration('S"
+      "ources','WiredSimulink',true,'DataLoggingVariableName','ScopeData2'),extmgr.Configuration('Visuals','Time Domain"
+      "',true,'SerializedDisplays',{struct('MinYLimReal','6.25608','MaxYLimReal','43.69531','YLabelReal','','MinYLimMag"
+      "','6.25608','MaxYLimMag','43.69531','LegendVisibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'Axe"
+      "sColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666"
+      "666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831"
+      "372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.074509803921568"
+      "6 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'UserDefinedChannelNames',{{}},'NumLine"
+      "s',1,'LineNames',{{'bon nuoc don'}},'ShowContent',true,'Placement',1)},'DisplayPropertyDefaults',struct('MinYLim"
+      "Real','6.25608','MaxYLimReal','43.69531','YLabelReal','','MinYLimMag','6.25608','MaxYLimMag','43.69531','LegendV"
+      "isibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509"
+      "803922 0.686274509803922 0.686274509803922],'ColorOrder',[0.0745098039215686 0.623529411764706 1;1 0.41176470588"
+      "2353 0.16078431372549;1 1 0.0666666666666667;0.717647058823529 0.274509803921569 1;0.392156862745098 0.831372549"
+      "019608 0.0745098039215686;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863])),extmgr.Configuration("
+      "'Tools','Plot Navigation',true),extmgr.Configuration('Tools','Measurements',true,'Version','2019a')),'Version','"
+      "2019a','Position',[1 41 1360 651])"
+      NumInputPorts	      "1"
+    }
+    Block {
+      BlockType		      Scope
+      Name		      "Scope1"
+      SID		      "127"
+      Ports		      [1]
+      Position		      [635, 259, 665, 291]
+      ZOrder		      13
+      ScopeSpecificationString "Simulink.scopes.TimeScopeBlockCfg('CurrentConfiguration', extmgr.ConfigurationSet(extm"
+      "gr.Configuration('Core','General UI',true),extmgr.Configuration('Core','Source UI',true),extmgr.Configuration('S"
+      "ources','WiredSimulink',true,'DataLoggingVariableName','ScopeData1'),extmgr.Configuration('Visuals','Time Domain"
+      "',true,'SerializedDisplays',{struct('MinYLimReal','-0.87011','MaxYLimReal','13.43001','YLabelReal','','MinYLimMa"
+      "g','0.00000','MaxYLimMag','13.43001','LegendVisibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'Ax"
+      "esColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.066"
+      "6666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.83"
+      "1372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.07450980392156"
+      "86 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'UserDefinedChannelNames',{{}},'NumLin"
+      "es',1,'LineNames',{{'Saturation'}},'ShowContent',true,'Placement',1)},'DisplayPropertyDefaults',struct('MinYLimR"
+      "eal','-0.87011','MaxYLimReal','13.43001','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','13.43001','LegendV"
+      "isibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509"
+      "803922 0.686274509803922 0.686274509803922],'ColorOrder',[0.0745098039215686 0.623529411764706 1;1 0.41176470588"
+      "2353 0.16078431372549;1 1 0.0666666666666667;0.717647058823529 0.274509803921569 1;0.392156862745098 0.831372549"
+      "019608 0.0745098039215686;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863])),extmgr.Configuration("
+      "'Tools','Plot Navigation',true),extmgr.Configuration('Tools','Measurements',true,'Version','2019a')),'Version','"
+      "2019a','Position',[1 41 1360 651])"
+      NumInputPorts	      "1"
+    }
+    Block {
+      BlockType		      Scope
+      Name		      "Scope2"
+      SID		      "147"
+      Ports		      [1]
+      Position		      [555, 124, 585, 156]
+      ZOrder		      20
+      ScopeSpecificationString "Simulink.scopes.TimeScopeBlockCfg('CurrentConfiguration', extmgr.ConfigurationSet(extm"
+      "gr.Configuration('Core','General UI',true),extmgr.Configuration('Core','Source UI',true),extmgr.Configuration('S"
+      "ources','WiredSimulink',true),extmgr.Configuration('Visuals','Time Domain',true,'SerializedDisplays',{struct('Mi"
+      "nYLimReal','-4.97043','MaxYLimReal','44.73384','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','44.73384','L"
+      "egendVisibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686"
+      "274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.0666666666666667;0.0745098039215686 0.6235"
+      "29411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.831372549019608 0.0745098039215686;0.7176"
+      "47058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863],'Title','%<Signal"
+      "Label>','LinePropertiesCache',{{}},'UserDefinedChannelNames',{{}},'NumLines',1,'LineNames',{{'bon nuoc don1'}},'"
+      "ShowContent',true,'Placement',1)},'DisplayPropertyDefaults',struct('MinYLimReal','-4.97043','MaxYLimReal','44.73"
+      "384','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','44.73384','LegendVisibility','off','XGrid',true,'YGrid"
+      "',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509"
+      "803922],'ColorOrder',[0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;1 1 0.06666666"
+      "66666667;0.717647058823529 0.274509803921569 1;0.392156862745098 0.831372549019608 0.0745098039215686;0.05882352"
+      "94117647 1 1;1 0.0745098039215686 0.650980392156863])),extmgr.Configuration('Tools','Plot Navigation',true),extm"
+      "gr.Configuration('Tools','Measurements',true,'Version','2019a')),'Version','2019a','Position',[1 41 1360 651])"
+      NumInputPorts	      "1"
+    }
+    Block {
+      BlockType		      Scope
+      Name		      "Scope3"
+      SID		      "148"
+      Ports		      [1]
+      Position		      [390, 44, 420, 76]
+      ZOrder		      21
+      ScopeSpecificationString "Simulink.scopes.TimeScopeBlockCfg('CurrentConfiguration', extmgr.ConfigurationSet(extm"
+      "gr.Configuration('Core','General UI',true),extmgr.Configuration('Core','Source UI',true),extmgr.Configuration('S"
+      "ources','WiredSimulink',true,'DataLoggingVariableName','ScopeData3'),extmgr.Configuration('Visuals','Time Domain"
+      "',true,'SerializedDisplays',{struct('MinYLimReal','-0.87011','MaxYLimReal','13.43001','YLabelReal','','MinYLimMa"
+      "g','0.00000','MaxYLimMag','13.43001','LegendVisibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'Ax"
+      "esColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.066"
+      "6666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.83"
+      "1372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.07450980392156"
+      "86 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'UserDefinedChannelNames',{{}},'NumLin"
+      "es',1,'LineNames',{{'Saturation'}},'ShowContent',true,'Placement',1)},'DisplayPropertyDefaults',struct('MinYLimR"
+      "eal','-0.87011','MaxYLimReal','13.43001','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','13.43001','LegendV"
+      "isibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickColor',[0.686274509"
+      "803922 0.686274509803922 0.686274509803922],'ColorOrder',[0.0745098039215686 0.623529411764706 1;1 0.41176470588"
+      "2353 0.16078431372549;1 1 0.0666666666666667;0.717647058823529 0.274509803921569 1;0.392156862745098 0.831372549"
+      "019608 0.0745098039215686;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863])),extmgr.Configuration("
+      "'Tools','Plot Navigation',true),extmgr.Configuration('Tools','Measurements',true,'Version','2019a')),'Version','"
+      "2019a','Position',[1 41 1360 651])"
+      NumInputPorts	      "1"
+    }
+    Block {
+      BlockType		      Scope
+      Name		      "Scope4"
+      SID		      "168"
+      Ports		      [1]
+      Position		      [815, 184, 845, 216]
+      ZOrder		      23
+      ScopeSpecificationString "Simulink.scopes.TimeScopeBlockCfg('CurrentConfiguration', extmgr.ConfigurationSet(extm"
+      "gr.Configuration('Core','General UI',true),extmgr.Configuration('Core','Source UI',true),extmgr.Configuration('S"
+      "ources','WiredSimulink',true,'DataLoggingVariableName','ScopeData4'),extmgr.Configuration('Visuals','Time Domain"
+      "',true,'SerializedDisplays',{struct('MinYLimReal','-4.99389','MaxYLimReal','44.94501','YLabelReal','','MinYLimMa"
+      "g','0.00000','MaxYLimMag','44.94501','LegendVisibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'Ax"
+      "esColor',[0 0 0],'AxesTickColor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[1 1 0.066"
+      "6666666666667;0.0745098039215686 0.623529411764706 1;1 0.411764705882353 0.16078431372549;0.392156862745098 0.83"
+      "1372549019608 0.0745098039215686;0.717647058823529 0.274509803921569 1;0.0588235294117647 1 1;1 0.07450980392156"
+      "86 0.650980392156863],'Title','%<SignalLabel>','LinePropertiesCache',{{}},'UserDefinedChannelNames',{{}},'NumLin"
+      "es',2,'LineNames',{{'bon nuoc don1','bon nuoc don'}},'ShowContent',true,'Placement',1)},'DisplayPropertyDefaults"
+      "',struct('MinYLimReal','-4.99389','MaxYLimReal','44.94501','YLabelReal','','MinYLimMag','0.00000','MaxYLimMag','"
+      "44.94501','LegendVisibility','off','XGrid',true,'YGrid',true,'PlotMagPhase',false,'AxesColor',[0 0 0],'AxesTickC"
+      "olor',[0.686274509803922 0.686274509803922 0.686274509803922],'ColorOrder',[0.0745098039215686 0.623529411764706"
+      " 1;1 0.411764705882353 0.16078431372549;1 1 0.0666666666666667;0.717647058823529 0.274509803921569 1;0.392156862"
+      "745098 0.831372549019608 0.0745098039215686;0.0588235294117647 1 1;1 0.0745098039215686 0.650980392156863])),ext"
+      "mgr.Configuration('Tools','Plot Navigation',true),extmgr.Configuration('Tools','Measurements',true,'Version','20"
+      "17b')),'Version','2017b','Position',[1 41 1360 651])"
+      NumInputPorts	      "1"
+    }
+    Block {
+      BlockType		      SubSystem
+      Name		      "bon nuoc don"
+      SID		      "128"
+      Ports		      [1, 1]
+      Position		      [625, 319, 725, 361]
+      ZOrder		      8
+      RequestExecContextInheritance off
+      Variant		      off
+      ContentPreviewEnabled   on
+      System {
+	Name			"bon nuoc don"
+	Location		[403, 63, 1217, 596]
+	Open			off
+	PortBlocksUseCompactNotation off
+	ModelBrowserVisibility	off
+	ModelBrowserWidth	200
+	ScreenColor		"white"
+	PaperOrientation	"landscape"
+	PaperPositionMode	"auto"
+	PaperType		"usletter"
+	PaperUnits		"inches"
+	TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
+	TiledPageScale		1
+	ShowPageBoundaries	off
+	ZoomFactor		"100"
+	Block {
+	  BlockType		  Inport
+	  Name			  "u"
+	  SID			  "129"
+	  Position		  [55, 143, 85, 157]
+	  ZOrder		  -1
+	  IconDisplay		  "Port number"
+	}
+	Block {
+	  BlockType		  Fcn
+	  Name			  "Fcn"
+	  SID			  "130"
+	  Position		  [195, 95, 255, 125]
+	  ZOrder		  2
+	  Expr			  "1/((Amax-Amin)/hmax*u(1)+Amin)*(k*u(2)-CD*a*sqrt(2*981*u(1)))"
+	}
+	Block {
+	  BlockType		  Integrator
+	  Name			  "Integrator"
+	  SID			  "131"
+	  Ports			  [1, 1]
+	  Position		  [300, 95, 330, 125]
+	  ZOrder		  1
+	  InitialCondition	  "h_init"
+	}
+	Block {
+	  BlockType		  Mux
+	  Name			  "Mux"
+	  SID			  "132"
+	  Ports			  [2, 1]
+	  Position		  [135, 91, 140, 129]
+	  ZOrder		  3
+	  ShowName		  off
+	  Inputs		  "2"
+	  DisplayOption		  "bar"
+	}
+	Block {
+	  BlockType		  Outport
+	  Name			  "h"
+	  SID			  "133"
+	  Position		  [360, 103, 390, 117]
+	  ZOrder		  -2
+	  IconDisplay		  "Port number"
+	}
+	Line {
+	  ZOrder		  1
+	  SrcBlock		  "Integrator"
+	  SrcPort		  1
+	  Points		  [10, 0]
+	  Branch {
+	    ZOrder		    2
+	    Points		    [0, -43; -225, 0]
+	    DstBlock		    "Mux"
+	    DstPort		    1
+	  }
+	  Branch {
+	    ZOrder		    3
+	    DstBlock		    "h"
+	    DstPort		    1
+	  }
+	}
+	Line {
+	  ZOrder		  4
+	  SrcBlock		  "Fcn"
+	  SrcPort		  1
+	  DstBlock		  "Integrator"
+	  DstPort		  1
+	}
+	Line {
+	  ZOrder		  5
+	  SrcBlock		  "u"
+	  SrcPort		  1
+	  Points		  [20, 0; 0, -30]
+	  DstBlock		  "Mux"
+	  DstPort		  2
+	}
+	Line {
+	  ZOrder		  6
+	  SrcBlock		  "Mux"
+	  SrcPort		  1
+	  DstBlock		  "Fcn"
+	  DstPort		  1
+	}
+      }
+    }
+    Block {
+      BlockType		      SubSystem
+      Name		      "bon nuoc don1"
+      SID		      "149"
+      Ports		      [1, 1]
+      Position		      [380, 104, 480, 146]
+      ZOrder		      16
+      RequestExecContextInheritance off
+      Variant		      off
+      ContentPreviewEnabled   on
+      System {
+	Name			"bon nuoc don1"
+	Location		[-7, 0, 690, 728]
+	Open			off
+	PortBlocksUseCompactNotation off
+	ModelBrowserVisibility	off
+	ModelBrowserWidth	200
+	ScreenColor		"white"
+	PaperOrientation	"landscape"
+	PaperPositionMode	"auto"
+	PaperType		"usletter"
+	PaperUnits		"inches"
+	TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
+	TiledPageScale		1
+	ShowPageBoundaries	off
+	ZoomFactor		"100"
+	Block {
+	  BlockType		  Inport
+	  Name			  "u"
+	  SID			  "150"
+	  Position		  [55, 143, 85, 157]
+	  ZOrder		  -1
+	  IconDisplay		  "Port number"
+	}
+	Block {
+	  BlockType		  Fcn
+	  Name			  "Fcn"
+	  SID			  "151"
+	  Position		  [195, 95, 255, 125]
+	  ZOrder		  2
+	  Expr			  "1/((Amax-Amin)/hmax*u(1)+Amin)*(k*u(2)-CD*a*sqrt(2*981*u(1)))"
+	}
+	Block {
+	  BlockType		  Integrator
+	  Name			  "Integrator"
+	  SID			  "152"
+	  Ports			  [1, 1]
+	  Position		  [300, 95, 330, 125]
+	  ZOrder		  1
+	  InitialCondition	  "h_init"
+	}
+	Block {
+	  BlockType		  Mux
+	  Name			  "Mux"
+	  SID			  "153"
+	  Ports			  [2, 1]
+	  Position		  [135, 91, 140, 129]
+	  ZOrder		  3
+	  ShowName		  off
+	  Inputs		  "2"
+	  DisplayOption		  "bar"
+	}
+	Block {
+	  BlockType		  Outport
+	  Name			  "h"
+	  SID			  "154"
+	  Position		  [360, 103, 390, 117]
+	  ZOrder		  -2
+	  IconDisplay		  "Port number"
+	}
+	Line {
+	  ZOrder		  1
+	  SrcBlock		  "Integrator"
+	  SrcPort		  1
+	  Points		  [10, 0]
+	  Branch {
+	    ZOrder		    2
+	    Points		    [0, -43; -225, 0]
+	    DstBlock		    "Mux"
+	    DstPort		    1
+	  }
+	  Branch {
+	    ZOrder		    3
+	    DstBlock		    "h"
+	    DstPort		    1
+	  }
+	}
+	Line {
+	  ZOrder		  4
+	  SrcBlock		  "Fcn"
+	  SrcPort		  1
+	  DstBlock		  "Integrator"
+	  DstPort		  1
+	}
+	Line {
+	  ZOrder		  5
+	  SrcBlock		  "u"
+	  SrcPort		  1
+	  Points		  [20, 0; 0, -30]
+	  DstBlock		  "Mux"
+	  DstPort		  2
+	}
+	Line {
+	  ZOrder		  6
+	  SrcBlock		  "Mux"
+	  SrcPort		  1
+	  DstBlock		  "Fcn"
+	  DstPort		  1
+	}
+      }
+    }
+    Block {
+      BlockType		      Constant
+      Name		      "gia tri dat"
+      SID		      "134"
+      Position		      [345, 315, 375, 345]
+      ZOrder		      9
+      Value		      "40"
+    }
+    Block {
+      BlockType		      Constant
+      Name		      "gia tri dat1"
+      SID		      "155"
+      Position		      [100, 100, 130, 130]
+      ZOrder		      17
+      Value		      "40"
+    }
+    Block {
+      BlockType		      SubSystem
+      Name		      "neuron\n"
+      SID		      "156"
+      Ports		      [1, 1]
+      Position		      [220, 104, 285, 146]
+      ZOrder		      19
+      RequestExecContextInheritance off
+      Variant		      off
+      ContentPreviewEnabled   on
+      System {
+	Name			"neuron\n"
+	Location		[-7, 0, 690, 735]
+	Open			on
+	PortBlocksUseCompactNotation off
+	ModelBrowserVisibility	off
+	ModelBrowserWidth	200
+	ScreenColor		"white"
+	PaperOrientation	"landscape"
+	PaperPositionMode	"auto"
+	PaperType		"usletter"
+	PaperUnits		"inches"
+	TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
+	TiledPageScale		1
+	ShowPageBoundaries	off
+	ZoomFactor		"100"
+	Block {
+	  BlockType		  Inport
+	  Name			  "e"
+	  SID			  "157"
+	  Position		  [-185, -67, -155, -53]
+	  ZOrder		  -1
+	  IconDisplay		  "Port number"
+	}
+	Block {
+	  BlockType		  SubSystem
+	  Name			  "Custom Neural Network"
+	  SID			  "291"
+	  Ports			  [1, 1]
+	  Position		  [110, -53, 225, 33]
+	  ZOrder		  22
+	  RequestExecContextInheritance	off
+	  Variant		  off
+	  Object {
+	    $PropName		    "MaskObject"
+	    $ObjectID		    23
+	    $ClassName		    "Simulink.Mask"
+	    Description		    "Custom Neural Network"
+	    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1 "
+	    "1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0+e"
+	    "],c3);plot([0 1 1 0 0],[0 0 1 1 0]);fprintf('NNET');port_label('input',1,' Input');port_label('output',1,'Output "
+	    "');"
+	    IconFrame		    "off"
+	  }
+	  System {
+	    Name		    "Custom Neural Network"
+	    Location		    [100, 100, 600, 900]
+	    Open		    off
+	    PortBlocksUseCompactNotation off
+	    ModelBrowserVisibility  off
+	    ModelBrowserWidth	    200
+	    ScreenColor		    "white"
+	    PaperOrientation	    "landscape"
+	    PaperPositionMode	    "auto"
+	    PaperType		    "usletter"
+	    PaperUnits		    "inches"
+	    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
+	    TiledPageScale	    1
+	    ShowPageBoundaries	    off
+	    ZoomFactor		    "100"
+	    Block {
+	      BlockType		      Inport
+	      Name		      "Input"
+	      SID		      "292"
+	      Position		      [40, 40, 60, 60]
+	      ZOrder		      1
+	      IconDisplay	      "Port number"
+	      PortDimensions	      "4"
+	      SampleTime	      "0.1"
+	      Object {
+		$PropName		"MaskObject"
+		$ObjectID		24
+		$ClassName		"Simulink.Mask"
+		Display			"e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128);patch"
+		"([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e "
+		"0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		IconFrame		"off"
+	      }
+	    }
+	    Block {
+	      BlockType		      From
+	      Name		      " a{1} "
+	      SID		      "293"
+	      Position		      [40, 120, 60, 140]
+	      ZOrder		      5
+	      GotoTag		      "feedback1"
+	      Object {
+		$PropName		"MaskObject"
+		$ObjectID		25
+		$ClassName		"Simulink.Mask"
+		Display			"plot(cos(0:.1:2*pi),sin(0:.1:2*pi))"
+		IconFrame		"off"
+	      }
+	    }
+	    Block {
+	      BlockType		      SubSystem
+	      Name		      "Layer 1"
+	      SID		      "294"
+	      Ports		      [1, 1]
+	      Position		      [190, 40, 250, 60]
+	      ZOrder		      7
+	      RequestExecContextInheritance off
+	      Variant		      off
+	      Object {
+		$PropName		"MaskObject"
+		$ObjectID		26
+		$ClassName		"Simulink.Mask"
+		Display			"e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1 1 0],["
+		"0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0+e],c3);plo"
+		"t([0 1 1 0 0],[0 0 1 1 0]);"
+		IconFrame		"off"
+	      }
+	      System {
+		Name			"Layer 1"
+		Location		[100, 100, 600, 900]
+		Open			off
+		PortBlocksUseCompactNotation off
+		ModelBrowserVisibility	off
+		ModelBrowserWidth	200
+		ScreenColor		"white"
+		PaperOrientation	"landscape"
+		PaperPositionMode	"auto"
+		PaperType		"usletter"
+		PaperUnits		"inches"
+		TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
+		TiledPageScale		1
+		ShowPageBoundaries	off
+		ZoomFactor		"100"
+		Block {
+		  BlockType		  Inport
+		  Name			  "p{1}"
+		  SID			  "295"
+		  Position		  [20, 40, 60, 80]
+		  ZOrder		  4
+		  IconDisplay		  "Port number"
+		  PortDimensions	  "4"
+		  SampleTime		  "0.1"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    27
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		  }
+		}
+		Block {
+		  BlockType		  SubSystem
+		  Name			  "Delays 1"
+		  SID			  "296"
+		  Ports			  [1, 1]
+		  Position		  [100, 40, 140, 80]
+		  ZOrder		  5
+		  RequestExecContextInheritance	off
+		  Variant		  off
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    28
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('0');"
+		    IconFrame		    "off"
+		  }
+		  System {
+		    Name		    "Delays 1"
+		    Location		    [100, 100, 600, 900]
+		    Open		    off
+		    PortBlocksUseCompactNotation off
+		    ModelBrowserVisibility  off
+		    ModelBrowserWidth	    200
+		    ScreenColor		    "white"
+		    PaperOrientation	    "landscape"
+		    PaperPositionMode	    "auto"
+		    PaperType		    "usletter"
+		    PaperUnits		    "inches"
+		    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
+		    TiledPageScale	    1
+		    ShowPageBoundaries	    off
+		    ZoomFactor		    "100"
+		    Block {
+		    BlockType		    Inport
+		    Name		    "p{1}"
+		    SID			    "297"
+		    Position		    [60, 40, 80, 60]
+		    ZOrder		    1
+		    BlockRotation	    270
+		    BlockMirror		    on
+		    NamePlacement	    "alternate"
+		    IconDisplay		    "Port number"
+		    PortDimensions	    "4"
+		    SampleTime		    "0.1"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    29
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Mux
+		    Name		    "mux"
+		    SID			    "298"
+		    Ports		    [1, 1]
+		    Position		    [200, 60, 240, 80]
+		    ZOrder		    2
+		    Inputs		    "1"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    30
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Mux')"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Outport
+		    Name		    "pd{1,1}"
+		    SID			    "299"
+		    Position		    [300, 60, 320, 80]
+		    ZOrder		    3
+		    IconDisplay		    "Port number"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    31
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Line {
+		    ZOrder		    1
+		    SrcBlock		    "p{1}"
+		    SrcPort		    1
+		    DstBlock		    "mux"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    2
+		    SrcBlock		    "mux"
+		    SrcPort		    1
+		    DstBlock		    "pd{1,1}"
+		    DstPort		    1
+		    }
+		  }
+		}
+		Block {
+		  BlockType		  SubSystem
+		  Name			  "IW{1,1}"
+		  SID			  "300"
+		  Ports			  [1, 1]
+		  Position		  [180, 40, 220, 80]
+		  ZOrder		  6
+		  RequestExecContextInheritance	off
+		  Variant		  off
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    32
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('W');"
+		    IconFrame		    "off"
+		  }
+		  System {
+		    Name		    "IW{1,1}"
+		    Location		    [100, 100, 600, 900]
+		    Open		    off
+		    PortBlocksUseCompactNotation off
+		    ModelBrowserVisibility  off
+		    ModelBrowserWidth	    200
+		    ScreenColor		    "white"
+		    PaperOrientation	    "landscape"
+		    PaperPositionMode	    "auto"
+		    PaperType		    "usletter"
+		    PaperUnits		    "inches"
+		    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
+		    TiledPageScale	    1
+		    ShowPageBoundaries	    off
+		    ZoomFactor		    "100"
+		    Block {
+		    BlockType		    Inport
+		    Name		    "pd{1,1}"
+		    SID			    "301"
+		    Position		    [40, 1230, 60, 1250]
+		    ZOrder		    1
+		    IconDisplay		    "Port number"
+		    PortDimensions	    "4"
+		    SampleTime		    "0.1"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    33
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(1,:)'"
+		    SID			    "302"
+		    Position		    [140, 40, 180, 60]
+		    ZOrder		    3
+		    Value		    "[0.1273114426274164767693974908979726023972034454345703125;0.000312372411133676958824162417371894662"
+		    "2102521359920501708984375;0.00120134153832350304598464152405767890741117298603057861328125;-0.001012085424917130"
+		    "15219756410800755475065670907497406005859375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    34
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(10,:)'"
+		    SID			    "303"
+		    Position		    [140, 580, 180, 600]
+		    ZOrder		    21
+		    Value		    "[-0.07628744425891477443091304166955524124205112457275390625;0.0010549580932088021591186421943575624"
+		    "027289450168609619140625;-0.000686530404964672447305773506087689384003169834613800048828125;-0.00073994853950029"
+		    "820625899912300837968359701335430145263671875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    35
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(11,:)'"
+		    SID			    "304"
+		    Position		    [140, 640, 180, 660]
+		    ZOrder		    23
+		    Value		    "[-0.08987639868343412496987099302714341320097446441650390625;-0.001999162190470765102651151678969654"
+		    "3128229677677154541015625;-0.0131575245467723776771062915713628171943128108978271484375;0.0006667934014763270611"
+		    "15634275978436562581919133663177490234375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    36
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(12,:)'"
+		    SID			    "305"
+		    Position		    [140, 700, 180, 720]
+		    ZOrder		    25
+		    Value		    "[-0.082783540558719892477057555879582650959491729736328125;0.011381086244825059858309934668341156793"
+		    "75827312469482421875;0.00533838902964545343465818660888544400222599506378173828125;-0.00369933369984102797256575"
+		    "45668582315556704998016357421875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    37
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(13,:)'"
+		    SID			    "306"
+		    Position		    [140, 760, 180, 780]
+		    ZOrder		    27
+		    Value		    "[0.08228677922101960973133571997095714323222637176513671875;-0.0030681138390867474831369410281922682"
+		    "770527899265289306640625;-0.007060652133798321107571727139884387725032866001129150390625;0.003340268028398739492"
+		    "967894904040804249234497547149658203125]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    38
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(14,:)'"
+		    SID			    "307"
+		    Position		    [140, 820, 180, 840]
+		    ZOrder		    29
+		    Value		    "[-0.284260769756084996640055351235787384212017059326171875;-0.05506038430207851191999779416619276162"
+		    "2369289398193359375;-0.015413201362474225619703105394364683888852596282958984375;0.00822931232592213728060936972"
+		    "497074748389422893524169921875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    39
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(15,:)'"
+		    SID			    "308"
+		    Position		    [140, 880, 180, 900]
+		    ZOrder		    31
+		    Value		    "[-0.1307866278465809328768187924652011133730411529541015625;-0.0408491590098287310484082013317674864"
+		    "0835285186767578125;0.024595539932477185340875536212479346431791782379150390625;0.006803159551226402659840353237"
+		    "54142154939472675323486328125]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    40
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(16,:)'"
+		    SID			    "309"
+		    Position		    [140, 940, 180, 960]
+		    ZOrder		    33
+		    Value		    "[-0.1692549248696585129092540000783628784120082855224609375;-0.0014728169316311904343125283034510175"
+		    "6392978131771087646484375;0.005108998786250083280757738890542896115221083164215087890625;-0.00150976967247328690"
+		    "62723938924364119884558022022247314453125]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    41
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(17,:)'"
+		    SID			    "310"
+		    Position		    [140, 1000, 180, 1020]
+		    ZOrder		    35
+		    Value		    "[0.1585368764920416506658540356511366553604602813720703125;0.039607984978468672998541677543471450917"
+		    "422771453857421875;0.000563873862649605828330223733502180039067752659320831298828125;-0.003206759187405548543192"
+		    "690402747757616452872753143310546875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    42
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(18,:)'"
+		    SID			    "311"
+		    Position		    [140, 1060, 180, 1080]
+		    ZOrder		    37
+		    Value		    "[0.1125057009768284654871450811697286553680896759033203125;-0.05780601771538897148960955973961972631"
+		    "514072418212890625;-0.00803936361979023204893390897041172138415277004241943359375;0.0073220406235571201467027258"
+		    "04743749904446303844451904296875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    43
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(19,:)'"
+		    SID			    "312"
+		    Position		    [140, 1120, 180, 1140]
+		    ZOrder		    39
+		    Value		    "[0.146152534618964213830594189857947640120983123779296875;-0.008384292262384806376784851522643293719"
+		    "7387218475341796875;-0.01067832079477695587932384313489819760434329509735107421875;0.006051709035913674546158791"
+		    "400785048608668148517608642578125]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    44
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(2,:)'"
+		    SID			    "313"
+		    Position		    [140, 100, 180, 120]
+		    ZOrder		    5
+		    Value		    "[-0.07813229340453876903271890341784455813467502593994140625;-0.001931971084714311729518820826001501"
+		    "7003752291202545166015625;0.0033099449036420353249809966911243463982827961444854736328125;0.00116231693934889753"
+		    "795636213595798835740424692630767822265625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    45
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(20,:)'"
+		    SID			    "314"
+		    Position		    [140, 1180, 180, 1200]
+		    ZOrder		    41
+		    Value		    "[-0.61968743168989648406608239383785985410213470458984375;-0.104120314151406462288562693174753803759"
+		    "8133087158203125;-0.039123085108022724598608732549109845422208309173583984375;0.00895964309187150843849511971939"
+		    "136856235563755035400390625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    46
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(21,:)'"
+		    SID			    "315"
+		    Position		    [140, 1240, 180, 1260]
+		    ZOrder		    43
+		    Value		    "[0.19999614067988857879498709735344164073467254638671875;-0.0073611805264682354799088415120422723703"
+		    "086376190185546875;-0.01305535480411303302095138434424370643682777881622314453125;0.0048190477663393998380980676"
+		    "1883010040037333965301513671875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    47
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(22,:)'"
+		    SID			    "316"
+		    Position		    [140, 1300, 180, 1320]
+		    ZOrder		    45
+		    Value		    "[-0.2084380749767481832979143518969067372381687164306640625;-0.0217452094580138297064131336355785606"
+		    "42898082733154296875;-0.00724827415273839557874335781662011868320405483245849609375;-0.0005164144405439247782416"
+		    "13449125679835560731589794158935546875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    48
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(23,:)'"
+		    SID			    "317"
+		    Position		    [140, 1360, 180, 1380]
+		    ZOrder		    47
+		    Value		    "[0.2303743767537962394698070056620053946971893310546875;0.005967185559116119572542480398169573163613"
+		    "67702484130859375;0.0110870394139882255668538846293813548982143402099609375;-0.000535024788714531232200477539606"
+		    "70888773165643215179443359375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    49
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(24,:)'"
+		    SID			    "318"
+		    Position		    [140, 1420, 180, 1440]
+		    ZOrder		    49
+		    Value		    "[-0.1790466189665697316346637535389163531363010406494140625;0.00952753851079317023997639068966236663"
+		    "98227214813232421875;0.00140707123615769320000568054496170589118264615535736083984375;-0.00343173135233713118980"
+		    "0256692024049698375165462493896484375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    50
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(25,:)'"
+		    SID			    "319"
+		    Position		    [140, 1480, 180, 1500]
+		    ZOrder		    51
+		    Value		    "[0.44481922680123153757136833519325591623783111572265625;0.00606306918261245546275528539581500808708"
+		    "369731903076171875;0.000273048900767559519185689875797606873675249516963958740234375;0.0092784507145413728373961"
+		    "6037792075076140463352203369140625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    51
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(26,:)'"
+		    SID			    "320"
+		    Position		    [140, 1540, 180, 1560]
+		    ZOrder		    53
+		    Value		    "[-0.1587350451873286438786436747250263579189777374267578125;0.04319648147673261356915830333491612691"
+		    "4322376251220703125;0.0009437555096115548929069927197588185663335025310516357421875;-0.0070766648937505361241506"
+		    "74055499621317721903324127197265625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    52
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(27,:)'"
+		    SID			    "321"
+		    Position		    [140, 1600, 180, 1620]
+		    ZOrder		    55
+		    Value		    "[-0.3544152115504204392237852516700513660907745361328125;0.01438457854034650568175734974829538259655"
+		    "2371978759765625;-0.003323920168754234717722884084878387511707842350006103515625;0.00552242360168995159719340648"
+		    "507568403147161006927490234375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    53
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(28,:)'"
+		    SID			    "322"
+		    Position		    [140, 1660, 180, 1680]
+		    ZOrder		    57
+		    Value		    "[0.35741154248293038886430394995841197669506072998046875;0.05928049027539303295064598842145642265677"
+		    "45208740234375;0.0103845066962010186550902091084935818798840045928955078125;-0.018477949172906484726075504454456"
+		    "6771946847438812255859375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    54
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(29,:)'"
+		    SID			    "323"
+		    Position		    [140, 1720, 180, 1740]
+		    ZOrder		    59
+		    Value		    "[0.294423121634710793781408710856339894235134124755859375;0.0021497409932967150893168284397916067973"
+		    "710596561431884765625;0.0022403844775366345797029676845113499439321458339691162109375;-0.00498177230002868395158"
+		    "9325573650057776831090450286865234375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    55
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(3,:)'"
+		    SID			    "324"
+		    Position		    [140, 160, 180, 180]
+		    ZOrder		    7
+		    Value		    "[-0.1878838629129677417761712376886862330138683319091796875;0.01468736256932166688027319167986206593"
+		    "923270702362060546875;0.0029604226912098526892924699183140546665526926517486572265625;-0.00055450386304248830502"
+		    "5445871621059268363751471042633056640625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    56
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(30,:)'"
+		    SID			    "325"
+		    Position		    [140, 1780, 180, 1800]
+		    ZOrder		    61
+		    Value		    "[-0.1760415476330757511558289252207032404839992523193359375;0.02182567515595680573969872284578741528"
+		    "093814849853515625;0.00413425604090632108078562367836639168672263622283935546875;-0.0037025812602967905599882225"
+		    "686769743333570659160614013671875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    57
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(31,:)'"
+		    SID			    "326"
+		    Position		    [140, 1840, 180, 1860]
+		    ZOrder		    63
+		    Value		    "[0.5249655882187067579280892459792084991931915283203125;0.019018872171017324468333953291221405379474"
+		    "163055419921875;0.004808253060647817676842574741158387041650712490081787109375;-0.010268276736542699886789442587"
+		    "08725101314485073089599609375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    58
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(32,:)'"
+		    SID			    "327"
+		    Position		    [140, 1900, 180, 1920]
+		    ZOrder		    65
+		    Value		    "[0.0706448208694954449260450246583786793053150177001953125;-0.01901053181692245741540858716689399443"
+		    "566799163818359375;-0.0014520159304337479193314219827470878954045474529266357421875;0.00322780629872250002590505"
+		    "77966490891412831842899322509765625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    59
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(33,:)'"
+		    SID			    "328"
+		    Position		    [140, 1960, 180, 1980]
+		    ZOrder		    67
+		    Value		    "[-0.29129490697134807764001607210957445204257965087890625;0.0029305112115791225047001233861010405234"
+		    "992504119873046875;0.005914452474492737366063010995276272296905517578125;0.0052993874059734952935984964028648391"
+		    "8316662311553955078125]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    60
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(34,:)'"
+		    SID			    "329"
+		    Position		    [140, 2020, 180, 2040]
+		    ZOrder		    69
+		    Value		    "[-0.088145473855231692983380753503297455608844757080078125;-0.02165004980072023077486420561399427242"
+		    "577075958251953125;-0.00659187598421066313358895882856813841499388217926025390625;0.0008865348518362734138442693"
+		    "421211515669710934162139892578125]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    61
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(35,:)'"
+		    SID			    "330"
+		    Position		    [140, 2080, 180, 2100]
+		    ZOrder		    71
+		    Value		    "[-0.07545887164586446982372791580928605981171131134033203125;0.0378700706488402649707580849280930124"
+		    "223232269287109375;0.000561095934478140980113114455463119156775064766407012939453125;-0.005043777966669336747240"
+		    "759422084011021070182323455810546875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    62
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(36,:)'"
+		    SID			    "331"
+		    Position		    [140, 2140, 180, 2160]
+		    ZOrder		    73
+		    Value		    "[-0.10276678009956773107713701165266684256494045257568359375;0.0059440173632763172381632266194628755"
+		    "32917678356170654296875;0.00066922403937130585903358959143361062160693109035491943359375;-0.00209482819803567810"
+		    "179600883202510885894298553466796875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    63
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(37,:)'"
+		    SID			    "332"
+		    Position		    [140, 2200, 180, 2220]
+		    ZOrder		    75
+		    Value		    "[0.360119950010166167686520566348917782306671142578125;-0.025284032080525747215871135153975046705454"
+		    "5879364013671875;0.00070204643172777788338867477335725197917781770229339599609375;0.0004826002940941715086721475"
+		    "191922081648954190313816070556640625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    64
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(38,:)'"
+		    SID			    "333"
+		    Position		    [140, 2260, 180, 2280]
+		    ZOrder		    77
+		    Value		    "[0.377172652639159611265284866021829657256603240966796875;-1.345173271052148677995319303590804338455"
+		    "2001953125;0.054268693986348988389512015828586299903690814971923828125;0.217284989984417753472456524832523427903"
+		    "652191162109375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    65
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(39,:)'"
+		    SID			    "334"
+		    Position		    [140, 2320, 180, 2340]
+		    ZOrder		    79
+		    Value		    "[0.3122492849645623902432589602540247142314910888671875;0.034189906198741744358660099578628432936966"
+		    "419219970703125;0.00156000593861937313956700368322572103352285921573638916015625;-0.0102582838272071447810462885"
+		    "2861424093134701251983642578125]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    66
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(4,:)'"
+		    SID			    "335"
+		    Position		    [140, 220, 180, 240]
+		    ZOrder		    9
+		    Value		    "[-0.259372477162614634149662151685333810746669769287109375;0.027604122428809496625490282895043492317"
+		    "19970703125;-0.00930455327128007318726599095271012629382312297821044921875;-0.0108730447885583784289886821738946"
+		    "3097788393497467041015625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    67
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(40,:)'"
+		    SID			    "336"
+		    Position		    [140, 2380, 180, 2400]
+		    ZOrder		    81
+		    Value		    "[0.097418776573087229042613444107701070606708526611328125;-0.000394279760273522127209805399061792741"
+		    "1221899092197418212890625;0.004432096649793347553636380098396330140531063079833984375;-9.09103311652629728339264"
+		    "3588939563414896838366985321044921875e-05]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    68
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(5,:)'"
+		    SID			    "337"
+		    Position		    [140, 280, 180, 300]
+		    ZOrder		    11
+		    Value		    "[-0.09073320907224947939884174274993711151182651519775390625;-0.034065374529920991464315704888576874"
+		    "50945377349853515625;-0.008027592350893286710089569169213064014911651611328125;0.0057453296999175505407886355158"
+		    "09801290743052959442138671875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    69
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(6,:)'"
+		    SID			    "338"
+		    Position		    [140, 340, 180, 360]
+		    ZOrder		    13
+		    Value		    "[-0.10952826100248445884144388173808692954480648040771484375;-0.005532947662351728017327001651892715"
+		    "017311275005340576171875;0.0034825431357048647167118371470451165805570781230926513671875;-0.00120312530208744597"
+		    "12385995402428306988440454006195068359375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    70
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(7,:)'"
+		    SID			    "339"
+		    Position		    [140, 400, 180, 420]
+		    ZOrder		    15
+		    Value		    "[0.077965178103800936160183709944249130785465240478515625;0.0046542907888291653456525054366466065403"
+		    "0740261077880859375;0.0012067003626775661510872605930444478872232139110565185546875;-0.0002067357828752164415186"
+		    "2598715041485775145702064037322998046875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    71
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(8,:)'"
+		    SID			    "340"
+		    Position		    [140, 460, 180, 480]
+		    ZOrder		    17
+		    Value		    "[0.202182353125477887179073377410531975328922271728515625;0.0090456720634544025838597036681676399894"
+		    "058704376220703125;-0.0030256302634215806283968230872005733544938266277313232421875;-0.0047848610742476215679230"
+		    "8331887397798709571361541748046875]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    72
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{1,1}(9,:)'"
+		    SID			    "341"
+		    Position		    [140, 520, 180, 540]
+		    ZOrder		    19
+		    Value		    "[0.2437864772210771857618993863070500083267688751220703125;0.111039473835377003330115996959648327901"
+		    "95941925048828125;0.013250392548958343785781011092694825492799282073974609375;-0.0223023684125226960561771960556"
+		    "143312714993953704833984375]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    73
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Mux
+		    Name		    "Mux"
+		    SID			    "342"
+		    Ports		    [40, 1]
+		    Position		    [340, 1145, 380, 1340]
+		    ZOrder		    82
+		    Inputs		    "40"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    74
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Mux');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod1"
+		    SID			    "343"
+		    Ports		    [2, 1]
+		    Position		    [240, 40, 260, 80]
+		    ZOrder		    2
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod10"
+		    SID			    "344"
+		    Ports		    [2, 1]
+		    Position		    [240, 580, 260, 620]
+		    ZOrder		    20
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod11"
+		    SID			    "345"
+		    Ports		    [2, 1]
+		    Position		    [240, 640, 260, 680]
+		    ZOrder		    22
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod12"
+		    SID			    "346"
+		    Ports		    [2, 1]
+		    Position		    [240, 700, 260, 740]
+		    ZOrder		    24
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod13"
+		    SID			    "347"
+		    Ports		    [2, 1]
+		    Position		    [240, 760, 260, 800]
+		    ZOrder		    26
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod14"
+		    SID			    "348"
+		    Ports		    [2, 1]
+		    Position		    [240, 820, 260, 860]
+		    ZOrder		    28
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod15"
+		    SID			    "349"
+		    Ports		    [2, 1]
+		    Position		    [240, 880, 260, 920]
+		    ZOrder		    30
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod16"
+		    SID			    "350"
+		    Ports		    [2, 1]
+		    Position		    [240, 940, 260, 980]
+		    ZOrder		    32
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod17"
+		    SID			    "351"
+		    Ports		    [2, 1]
+		    Position		    [240, 1000, 260, 1040]
+		    ZOrder		    34
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod18"
+		    SID			    "352"
+		    Ports		    [2, 1]
+		    Position		    [240, 1060, 260, 1100]
+		    ZOrder		    36
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod19"
+		    SID			    "353"
+		    Ports		    [2, 1]
+		    Position		    [240, 1120, 260, 1160]
+		    ZOrder		    38
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod2"
+		    SID			    "354"
+		    Ports		    [2, 1]
+		    Position		    [240, 100, 260, 140]
+		    ZOrder		    4
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod20"
+		    SID			    "355"
+		    Ports		    [2, 1]
+		    Position		    [240, 1180, 260, 1220]
+		    ZOrder		    40
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod21"
+		    SID			    "356"
+		    Ports		    [2, 1]
+		    Position		    [240, 1240, 260, 1280]
+		    ZOrder		    42
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod22"
+		    SID			    "357"
+		    Ports		    [2, 1]
+		    Position		    [240, 1300, 260, 1340]
+		    ZOrder		    44
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod23"
+		    SID			    "358"
+		    Ports		    [2, 1]
+		    Position		    [240, 1360, 260, 1400]
+		    ZOrder		    46
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod24"
+		    SID			    "359"
+		    Ports		    [2, 1]
+		    Position		    [240, 1420, 260, 1460]
+		    ZOrder		    48
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod25"
+		    SID			    "360"
+		    Ports		    [2, 1]
+		    Position		    [240, 1480, 260, 1520]
+		    ZOrder		    50
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod26"
+		    SID			    "361"
+		    Ports		    [2, 1]
+		    Position		    [240, 1540, 260, 1580]
+		    ZOrder		    52
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod27"
+		    SID			    "362"
+		    Ports		    [2, 1]
+		    Position		    [240, 1600, 260, 1640]
+		    ZOrder		    54
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod28"
+		    SID			    "363"
+		    Ports		    [2, 1]
+		    Position		    [240, 1660, 260, 1700]
+		    ZOrder		    56
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod29"
+		    SID			    "364"
+		    Ports		    [2, 1]
+		    Position		    [240, 1720, 260, 1760]
+		    ZOrder		    58
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod3"
+		    SID			    "365"
+		    Ports		    [2, 1]
+		    Position		    [240, 160, 260, 200]
+		    ZOrder		    6
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod30"
+		    SID			    "366"
+		    Ports		    [2, 1]
+		    Position		    [240, 1780, 260, 1820]
+		    ZOrder		    60
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod31"
+		    SID			    "367"
+		    Ports		    [2, 1]
+		    Position		    [240, 1840, 260, 1880]
+		    ZOrder		    62
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod32"
+		    SID			    "368"
+		    Ports		    [2, 1]
+		    Position		    [240, 1900, 260, 1940]
+		    ZOrder		    64
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod33"
+		    SID			    "369"
+		    Ports		    [2, 1]
+		    Position		    [240, 1960, 260, 2000]
+		    ZOrder		    66
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod34"
+		    SID			    "370"
+		    Ports		    [2, 1]
+		    Position		    [240, 2020, 260, 2060]
+		    ZOrder		    68
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod35"
+		    SID			    "371"
+		    Ports		    [2, 1]
+		    Position		    [240, 2080, 260, 2120]
+		    ZOrder		    70
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod36"
+		    SID			    "372"
+		    Ports		    [2, 1]
+		    Position		    [240, 2140, 260, 2180]
+		    ZOrder		    72
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod37"
+		    SID			    "373"
+		    Ports		    [2, 1]
+		    Position		    [240, 2200, 260, 2240]
+		    ZOrder		    74
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod38"
+		    SID			    "374"
+		    Ports		    [2, 1]
+		    Position		    [240, 2260, 260, 2300]
+		    ZOrder		    76
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod39"
+		    SID			    "375"
+		    Ports		    [2, 1]
+		    Position		    [240, 2320, 260, 2360]
+		    ZOrder		    78
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod4"
+		    SID			    "376"
+		    Ports		    [2, 1]
+		    Position		    [240, 220, 260, 260]
+		    ZOrder		    8
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod40"
+		    SID			    "377"
+		    Ports		    [2, 1]
+		    Position		    [240, 2380, 260, 2420]
+		    ZOrder		    80
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod5"
+		    SID			    "378"
+		    Ports		    [2, 1]
+		    Position		    [240, 280, 260, 320]
+		    ZOrder		    10
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod6"
+		    SID			    "379"
+		    Ports		    [2, 1]
+		    Position		    [240, 340, 260, 380]
+		    ZOrder		    12
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod7"
+		    SID			    "380"
+		    Ports		    [2, 1]
+		    Position		    [240, 400, 260, 440]
+		    ZOrder		    14
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod8"
+		    SID			    "381"
+		    Ports		    [2, 1]
+		    Position		    [240, 460, 260, 500]
+		    ZOrder		    16
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod9"
+		    SID			    "382"
+		    Ports		    [2, 1]
+		    Position		    [240, 520, 260, 560]
+		    ZOrder		    18
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Outport
+		    Name		    "iz{1,1}"
+		    SID			    "383"
+		    Position		    [420, 1230, 440, 1250]
+		    ZOrder		    83
+		    IconDisplay		    "Port number"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    75
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Line {
+		    ZOrder		    1
+		    SrcBlock		    "IW{1,1}(1,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod1"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    2
+		    SrcBlock		    "pd{1,1}"
+		    SrcPort		    1
+		    Points		    [0, 0]
+		    Branch {
+		    ZOrder		    3
+		    DstBlock		    "dotprod1"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    4
+		    DstBlock		    "dotprod2"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    5
+		    DstBlock		    "dotprod3"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    6
+		    DstBlock		    "dotprod4"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    7
+		    DstBlock		    "dotprod5"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    8
+		    DstBlock		    "dotprod6"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    9
+		    DstBlock		    "dotprod7"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    10
+		    DstBlock		    "dotprod8"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    11
+		    DstBlock		    "dotprod9"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    12
+		    DstBlock		    "dotprod10"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    13
+		    DstBlock		    "dotprod11"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    14
+		    DstBlock		    "dotprod12"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    15
+		    DstBlock		    "dotprod13"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    16
+		    DstBlock		    "dotprod14"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    17
+		    DstBlock		    "dotprod15"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    18
+		    DstBlock		    "dotprod16"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    19
+		    DstBlock		    "dotprod17"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    20
+		    DstBlock		    "dotprod18"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    21
+		    DstBlock		    "dotprod19"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    22
+		    DstBlock		    "dotprod20"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    23
+		    DstBlock		    "dotprod21"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    24
+		    DstBlock		    "dotprod22"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    25
+		    DstBlock		    "dotprod23"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    26
+		    DstBlock		    "dotprod24"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    27
+		    DstBlock		    "dotprod25"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    28
+		    DstBlock		    "dotprod26"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    29
+		    DstBlock		    "dotprod27"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    30
+		    DstBlock		    "dotprod28"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    31
+		    DstBlock		    "dotprod29"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    32
+		    DstBlock		    "dotprod30"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    33
+		    DstBlock		    "dotprod31"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    34
+		    DstBlock		    "dotprod32"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    35
+		    DstBlock		    "dotprod33"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    36
+		    DstBlock		    "dotprod34"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    37
+		    DstBlock		    "dotprod35"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    38
+		    DstBlock		    "dotprod36"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    39
+		    DstBlock		    "dotprod37"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    40
+		    DstBlock		    "dotprod38"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    41
+		    DstBlock		    "dotprod39"
+		    DstPort		    2
+		    }
+		    Branch {
+		    ZOrder		    42
+		    DstBlock		    "dotprod40"
+		    DstPort		    2
+		    }
+		    }
+		    Line {
+		    ZOrder		    43
+		    SrcBlock		    "dotprod1"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    44
+		    SrcBlock		    "IW{1,1}(2,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod2"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    45
+		    SrcBlock		    "dotprod2"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    2
+		    }
+		    Line {
+		    ZOrder		    46
+		    SrcBlock		    "IW{1,1}(3,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod3"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    47
+		    SrcBlock		    "dotprod3"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    3
+		    }
+		    Line {
+		    ZOrder		    48
+		    SrcBlock		    "IW{1,1}(4,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod4"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    49
+		    SrcBlock		    "dotprod4"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    4
+		    }
+		    Line {
+		    ZOrder		    50
+		    SrcBlock		    "IW{1,1}(5,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod5"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    51
+		    SrcBlock		    "dotprod5"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    5
+		    }
+		    Line {
+		    ZOrder		    52
+		    SrcBlock		    "IW{1,1}(6,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod6"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    53
+		    SrcBlock		    "dotprod6"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    6
+		    }
+		    Line {
+		    ZOrder		    54
+		    SrcBlock		    "IW{1,1}(7,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod7"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    55
+		    SrcBlock		    "dotprod7"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    7
+		    }
+		    Line {
+		    ZOrder		    56
+		    SrcBlock		    "IW{1,1}(8,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod8"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    57
+		    SrcBlock		    "dotprod8"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    8
+		    }
+		    Line {
+		    ZOrder		    58
+		    SrcBlock		    "IW{1,1}(9,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod9"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    59
+		    SrcBlock		    "dotprod9"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    9
+		    }
+		    Line {
+		    ZOrder		    60
+		    SrcBlock		    "IW{1,1}(10,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod10"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    61
+		    SrcBlock		    "dotprod10"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    10
+		    }
+		    Line {
+		    ZOrder		    62
+		    SrcBlock		    "IW{1,1}(11,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod11"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    63
+		    SrcBlock		    "dotprod11"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    11
+		    }
+		    Line {
+		    ZOrder		    64
+		    SrcBlock		    "IW{1,1}(12,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod12"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    65
+		    SrcBlock		    "dotprod12"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    12
+		    }
+		    Line {
+		    ZOrder		    66
+		    SrcBlock		    "IW{1,1}(13,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod13"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    67
+		    SrcBlock		    "dotprod13"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    13
+		    }
+		    Line {
+		    ZOrder		    68
+		    SrcBlock		    "IW{1,1}(14,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod14"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    69
+		    SrcBlock		    "dotprod14"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    14
+		    }
+		    Line {
+		    ZOrder		    70
+		    SrcBlock		    "IW{1,1}(15,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod15"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    71
+		    SrcBlock		    "dotprod15"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    15
+		    }
+		    Line {
+		    ZOrder		    72
+		    SrcBlock		    "IW{1,1}(16,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod16"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    73
+		    SrcBlock		    "dotprod16"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    16
+		    }
+		    Line {
+		    ZOrder		    74
+		    SrcBlock		    "IW{1,1}(17,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod17"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    75
+		    SrcBlock		    "dotprod17"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    17
+		    }
+		    Line {
+		    ZOrder		    76
+		    SrcBlock		    "IW{1,1}(18,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod18"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    77
+		    SrcBlock		    "dotprod18"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    18
+		    }
+		    Line {
+		    ZOrder		    78
+		    SrcBlock		    "IW{1,1}(19,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod19"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    79
+		    SrcBlock		    "dotprod19"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    19
+		    }
+		    Line {
+		    ZOrder		    80
+		    SrcBlock		    "IW{1,1}(20,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod20"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    81
+		    SrcBlock		    "dotprod20"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    20
+		    }
+		    Line {
+		    ZOrder		    82
+		    SrcBlock		    "IW{1,1}(21,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod21"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    83
+		    SrcBlock		    "dotprod21"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    21
+		    }
+		    Line {
+		    ZOrder		    84
+		    SrcBlock		    "IW{1,1}(22,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod22"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    85
+		    SrcBlock		    "dotprod22"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    22
+		    }
+		    Line {
+		    ZOrder		    86
+		    SrcBlock		    "IW{1,1}(23,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod23"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    87
+		    SrcBlock		    "dotprod23"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    23
+		    }
+		    Line {
+		    ZOrder		    88
+		    SrcBlock		    "IW{1,1}(24,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod24"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    89
+		    SrcBlock		    "dotprod24"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    24
+		    }
+		    Line {
+		    ZOrder		    90
+		    SrcBlock		    "IW{1,1}(25,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod25"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    91
+		    SrcBlock		    "dotprod25"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    25
+		    }
+		    Line {
+		    ZOrder		    92
+		    SrcBlock		    "IW{1,1}(26,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod26"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    93
+		    SrcBlock		    "dotprod26"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    26
+		    }
+		    Line {
+		    ZOrder		    94
+		    SrcBlock		    "IW{1,1}(27,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod27"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    95
+		    SrcBlock		    "dotprod27"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    27
+		    }
+		    Line {
+		    ZOrder		    96
+		    SrcBlock		    "IW{1,1}(28,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod28"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    97
+		    SrcBlock		    "dotprod28"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    28
+		    }
+		    Line {
+		    ZOrder		    98
+		    SrcBlock		    "IW{1,1}(29,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod29"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    99
+		    SrcBlock		    "dotprod29"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    29
+		    }
+		    Line {
+		    ZOrder		    100
+		    SrcBlock		    "IW{1,1}(30,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod30"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    101
+		    SrcBlock		    "dotprod30"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    30
+		    }
+		    Line {
+		    ZOrder		    102
+		    SrcBlock		    "IW{1,1}(31,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod31"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    103
+		    SrcBlock		    "dotprod31"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    31
+		    }
+		    Line {
+		    ZOrder		    104
+		    SrcBlock		    "IW{1,1}(32,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod32"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    105
+		    SrcBlock		    "dotprod32"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    32
+		    }
+		    Line {
+		    ZOrder		    106
+		    SrcBlock		    "IW{1,1}(33,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod33"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    107
+		    SrcBlock		    "dotprod33"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    33
+		    }
+		    Line {
+		    ZOrder		    108
+		    SrcBlock		    "IW{1,1}(34,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod34"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    109
+		    SrcBlock		    "dotprod34"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    34
+		    }
+		    Line {
+		    ZOrder		    110
+		    SrcBlock		    "IW{1,1}(35,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod35"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    111
+		    SrcBlock		    "dotprod35"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    35
+		    }
+		    Line {
+		    ZOrder		    112
+		    SrcBlock		    "IW{1,1}(36,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod36"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    113
+		    SrcBlock		    "dotprod36"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    36
+		    }
+		    Line {
+		    ZOrder		    114
+		    SrcBlock		    "IW{1,1}(37,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod37"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    115
+		    SrcBlock		    "dotprod37"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    37
+		    }
+		    Line {
+		    ZOrder		    116
+		    SrcBlock		    "IW{1,1}(38,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod38"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    117
+		    SrcBlock		    "dotprod38"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    38
+		    }
+		    Line {
+		    ZOrder		    118
+		    SrcBlock		    "IW{1,1}(39,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod39"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    119
+		    SrcBlock		    "dotprod39"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    39
+		    }
+		    Line {
+		    ZOrder		    120
+		    SrcBlock		    "IW{1,1}(40,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod40"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    121
+		    SrcBlock		    "dotprod40"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    40
+		    }
+		    Line {
+		    ZOrder		    122
+		    SrcBlock		    "Mux"
+		    SrcPort		    1
+		    DstBlock		    "iz{1,1}"
+		    DstPort		    1
+		    }
+		  }
+		}
+		Block {
+		  BlockType		  Constant
+		  Name			  "b{1}"
+		  SID			  "384"
+		  Position		  [180, 100, 220, 140]
+		  ZOrder		  7
+		  Value			  "[-5.990704389631115844849773566238582134246826171875;-3.44891891024988606062606777413748204708099365234"
+		  "375;6.959461258793613325224214349873363971710205078125;-4.51396616263090155740655973204411566257476806640625;-3.55"
+		  "220559916193057148348088958300650119781494140625;2.570134910866672672824506662436760962009429931640625;2.527235966"
+		  "907875219789048060192726552486419677734375;-5.8886243055712537142198925721459090709686279296875;-4.147548706711380"
+		  "53950244284351356327533721923828125;-2.47066347654071361006344886845909059047698974609375;2.5985818192420451211432"
+		  "9190808348357677459716796875;-1.702132330521640479759071240550838410854339599609375;-3.910858590943524060179470325"
+		  "238071382045745849609375;2.04846161806922122394780672038905322551727294921875;-3.387542877926385642695095157250761"
+		  "98577880859375;-6.0106713836568843589702737517654895782470703125;2.10959984637126840567589169950224459171295166015"
+		  "625;-1.24744910111382711903615927440114319324493408203125;-0.986140370372338370685838526696898043155670166015625;0"
+		  ".079043542246669373785294965273351408541202545166015625;0.0690234286046440270734336763780447654426097869873046875;"
+		  "-5.2649353544066226362474480993114411830902099609375;1.276633299872276250397362673538736999034881591796875;2.40417"
+		  "6387324938435341437070746906101703643798828125;3.707231527211350741168871536501683294773101806640625;2.59242197297"
+		  "953769208334051654674112796783447265625;7.80187956348184474819618117180652916431427001953125;-3.252515599145317182"
+		  "2058720863424241542816162109375;-0.4279554008011972054958960143267177045345306396484375;-8.37174548225319625771589"
+		  "926443994045257568359375;8.6707987454620241152269954909570515155792236328125;-2.2722642323604280711890623933868482"
+		  "70893096923828125;-1.8392306817669743512766444837325252592563629150390625;-4.3347164482337943169909522111993283033"
+		  "3709716796875;-2.595723981615561282154658329091034829616546630859375;3.1433975943044956125049793627113103866577148"
+		  "4375;4.25957021841886618318540058680810034275054931640625;-3.450214714843769403529449846246279776096343994140625;7"
+		  ".339645526855719026571023277938365936279296875;-3.9980425696812602609497844241559505462646484375]"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    76
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('b');"
+		    IconFrame		    "off"
+		  }
+		}
+		Block {
+		  BlockType		  Sum
+		  Name			  "netsum"
+		  SID			  "385"
+		  Ports			  [2, 1]
+		  Position		  [260, 70, 300, 110]
+		  ZOrder		  3
+		  Inputs		  "2"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    77
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('+');"
+		    IconFrame		    "off"
+		  }
+		}
+		Block {
+		  BlockType		  Reference
+		  Name			  "tansig"
+		  SID			  "386"
+		  Ports			  [1, 1]
+		  Position		  [340, 70, 380, 110]
+		  ZOrder		  2
+		  LibraryVersion	  "1.97"
+		  SourceBlock		  "neural/Transfer Functions/tansig"
+		  SourceType		  "TANSIG"
+		  SourceProductName	  "Neural Network Toolbox"
+		  SourceProductBaseCode	  "NN"
+		  ContentPreviewEnabled	  off
+		}
+		Block {
+		  BlockType		  Outport
+		  Name			  "a{1}"
+		  SID			  "387"
+		  Position		  [420, 70, 460, 110]
+		  ZOrder		  1
+		  IconDisplay		  "Port number"
+		  InitialOutput		  "[0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0]"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    78
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		  }
+		}
+		Line {
+		  ZOrder		  1
+		  SrcBlock		  "p{1}"
+		  SrcPort		  1
+		  DstBlock		  "Delays 1"
+		  DstPort		  1
+		}
+		Line {
+		  ZOrder		  2
+		  SrcBlock		  "Delays 1"
+		  SrcPort		  1
+		  DstBlock		  "IW{1,1}"
+		  DstPort		  1
+		}
+		Line {
+		  ZOrder		  3
+		  SrcBlock		  "IW{1,1}"
+		  SrcPort		  1
+		  DstBlock		  "netsum"
+		  DstPort		  1
+		}
+		Line {
+		  ZOrder		  4
+		  SrcBlock		  "b{1}"
+		  SrcPort		  1
+		  DstBlock		  "netsum"
+		  DstPort		  2
+		}
+		Line {
+		  ZOrder		  5
+		  SrcBlock		  "netsum"
+		  SrcPort		  1
+		  DstBlock		  "tansig"
+		  DstPort		  1
+		}
+		Line {
+		  ZOrder		  6
+		  SrcBlock		  "tansig"
+		  SrcPort		  1
+		  DstBlock		  "a{1}"
+		  DstPort		  1
+		}
+	      }
+	    }
+	    Block {
+	      BlockType		      SubSystem
+	      Name		      "Layer 2"
+	      SID		      "388"
+	      Ports		      [1, 1]
+	      Position		      [190, 80, 250, 100]
+	      ZOrder		      8
+	      RequestExecContextInheritance off
+	      Variant		      off
+	      Object {
+		$PropName		"MaskObject"
+		$ObjectID		79
+		$ClassName		"Simulink.Mask"
+		Display			"e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1 1 0],["
+		"0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0+e],c3);plo"
+		"t([0 1 1 0 0],[0 0 1 1 0]);"
+		IconFrame		"off"
+	      }
+	      System {
+		Name			"Layer 2"
+		Location		[100, 100, 600, 900]
+		Open			off
+		PortBlocksUseCompactNotation off
+		ModelBrowserVisibility	off
+		ModelBrowserWidth	200
+		ScreenColor		"white"
+		PaperOrientation	"landscape"
+		PaperPositionMode	"auto"
+		PaperType		"usletter"
+		PaperUnits		"inches"
+		TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
+		TiledPageScale		1
+		ShowPageBoundaries	off
+		ZoomFactor		"100"
+		Block {
+		  BlockType		  Inport
+		  Name			  "a{1} "
+		  SID			  "389"
+		  Position		  [20, 20, 60, 60]
+		  ZOrder		  4
+		  IconDisplay		  "Port number"
+		  PortDimensions	  "40"
+		  SampleTime		  "0.1"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    80
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		  }
+		}
+		Block {
+		  BlockType		  SubSystem
+		  Name			  "Delays 1"
+		  SID			  "390"
+		  Ports			  [1, 1]
+		  Position		  [100, 40, 140, 80]
+		  ZOrder		  5
+		  RequestExecContextInheritance	off
+		  Variant		  off
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    81
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('0');"
+		    IconFrame		    "off"
+		  }
+		  System {
+		    Name		    "Delays 1"
+		    Location		    [100, 100, 600, 900]
+		    Open		    off
+		    PortBlocksUseCompactNotation off
+		    ModelBrowserVisibility  off
+		    ModelBrowserWidth	    200
+		    ScreenColor		    "white"
+		    PaperOrientation	    "landscape"
+		    PaperPositionMode	    "auto"
+		    PaperType		    "usletter"
+		    PaperUnits		    "inches"
+		    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
+		    TiledPageScale	    1
+		    ShowPageBoundaries	    off
+		    ZoomFactor		    "100"
+		    Block {
+		    BlockType		    Inport
+		    Name		    "p{2}"
+		    SID			    "391"
+		    Position		    [60, 40, 80, 60]
+		    ZOrder		    1
+		    BlockRotation	    270
+		    BlockMirror		    on
+		    NamePlacement	    "alternate"
+		    IconDisplay		    "Port number"
+		    PortDimensions	    "40"
+		    SampleTime		    "0.1"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    82
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Mux
+		    Name		    "mux"
+		    SID			    "392"
+		    Ports		    [1, 1]
+		    Position		    [200, 60, 240, 80]
+		    ZOrder		    2
+		    Inputs		    "1"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    83
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Mux')"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Outport
+		    Name		    "pd{2,1}"
+		    SID			    "393"
+		    Position		    [300, 60, 320, 80]
+		    ZOrder		    3
+		    IconDisplay		    "Port number"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    84
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Line {
+		    ZOrder		    1
+		    SrcBlock		    "p{2}"
+		    SrcPort		    1
+		    DstBlock		    "mux"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    2
+		    SrcBlock		    "mux"
+		    SrcPort		    1
+		    DstBlock		    "pd{2,1}"
+		    DstPort		    1
+		    }
+		  }
+		}
+		Block {
+		  BlockType		  SubSystem
+		  Name			  "LW{2,1}"
+		  SID			  "394"
+		  Ports			  [1, 1]
+		  Position		  [180, 40, 220, 80]
+		  ZOrder		  6
+		  RequestExecContextInheritance	off
+		  Variant		  off
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    85
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('W');"
+		    IconFrame		    "off"
+		  }
+		  System {
+		    Name		    "LW{2,1}"
+		    Location		    [100, 100, 600, 900]
+		    Open		    off
+		    PortBlocksUseCompactNotation off
+		    ModelBrowserVisibility  off
+		    ModelBrowserWidth	    200
+		    ScreenColor		    "white"
+		    PaperOrientation	    "landscape"
+		    PaperPositionMode	    "auto"
+		    PaperType		    "usletter"
+		    PaperUnits		    "inches"
+		    TiledPaperMargins	    [0.500000, 0.500000, 0.500000, 0.500000]
+		    TiledPageScale	    1
+		    ShowPageBoundaries	    off
+		    ZoomFactor		    "100"
+		    Block {
+		    BlockType		    Inport
+		    Name		    "ad{2,1}"
+		    SID			    "395"
+		    Position		    [40, 60, 60, 80]
+		    ZOrder		    1
+		    IconDisplay		    "Port number"
+		    PortDimensions	    "40"
+		    SampleTime		    "0.1"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    86
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Constant
+		    Name		    "IW{2,1}(1,:)'"
+		    SID			    "396"
+		    Position		    [140, 40, 180, 60]
+		    ZOrder		    3
+		    Value		    "[31.52375916179162373964572907425463199615478515625;-17.61514398424592897640650335233658552169799804"
+		    "6875;-8.0799457618650851742359009222127497196197509765625;-4.77454029561602322218050176161341369152069091796875;"
+		    "-10.029441645389084669659496285021305084228515625;-15.4139556424359565056647625169716775417327880859375;4.828045"
+		    "33491463327976589425816200673580169677734375;9.41874617182759976685701985843479633331298828125;7.474831329052774"
+		    "3646407543565146625041961669921875;-5.0807527898814299760488211177289485931396484375;-8.203441212853455510867206"
+		    "61260187625885009765625;-3.171369937097857860663907558773644268512725830078125;12.194932695357902474597722175531"
+		    "089305877685546875;-7.99047501596050846472962803090922534465789794921875;-3.684197334157792269593301170971244573"
+		    "5931396484375;-9.1020700742060842713954116334207355976104736328125;5.6333648164863241447619657265022397041320800"
+		    "78125;9.6063992395412665104004190652631223201751708984375;5.7212977074657427323245428851805627346038818359375;-3"
+		    ".6618146398525279749947003438137471675872802734375;5.78841188556242070006874200771562755107879638671875;-7.67578"
+		    "36761977618067476214491762220859527587890625;7.664253123249235244429655722342431545257568359375;-7.5971865213333"
+		    "0873965633145417086780071258544921875;3.398190214919026619355690854717977344989776611328125;-4.33679940875286629"
+		    "164975238381884992122650146484375;-2.69132359567411594269970009918324649333953857421875;3.0339154346128189843057"
+		    "04361759126186370849609375;8.5146153620457720734293616260401904582977294921875;-14.14992086762317846648784325225"
+		    "27873516082763671875;7.76973869886588897060164526919834315776824951171875;11.85064056801843790367456676904112100"
+		    "6011962890625;-8.571265810273711593936241115443408489227294921875;-8.6884021920817176010132243391126394271850585"
+		    "9375;-20.918557474208586910435769823379814624786376953125;-6.2383929822632833150919395848177373409271240234375;7"
+		    ".0702728811882007420308582368306815624237060546875;0.2412531549042996881215827897904091514647006988525390625;8.5"
+		    "571494840687467586803904850967228412628173828125;6.55763232048204969260041252709925174713134765625]"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    87
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('weights');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Mux
+		    Name		    "Mux"
+		    SID			    "397"
+		    Ports		    [1, 1]
+		    Position		    [340, 60, 380, 80]
+		    ZOrder		    4
+		    Inputs		    "1"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    88
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('Mux');"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Block {
+		    BlockType		    Reference
+		    Name		    "dotprod1"
+		    SID			    "398"
+		    Ports		    [2, 1]
+		    Position		    [240, 40, 260, 80]
+		    ZOrder		    2
+		    LibraryVersion	    "1.97"
+		    SourceBlock		    "neural/Weight Functions/dotprod"
+		    SourceType		    "DOTPROD"
+		    SourceProductName	    "Neural Network Toolbox"
+		    SourceProductBaseCode   "NN"
+		    ContentPreviewEnabled   off
+		    }
+		    Block {
+		    BlockType		    Outport
+		    Name		    "lz{2,1}"
+		    SID			    "399"
+		    Position		    [420, 60, 440, 80]
+		    ZOrder		    5
+		    IconDisplay		    "Port number"
+		    Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    89
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		    }
+		    }
+		    Line {
+		    ZOrder		    1
+		    SrcBlock		    "IW{2,1}(1,:)'"
+		    SrcPort		    1
+		    DstBlock		    "dotprod1"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    2
+		    SrcBlock		    "ad{2,1}"
+		    SrcPort		    1
+		    DstBlock		    "dotprod1"
+		    DstPort		    2
+		    }
+		    Line {
+		    ZOrder		    3
+		    SrcBlock		    "dotprod1"
+		    SrcPort		    1
+		    DstBlock		    "Mux"
+		    DstPort		    1
+		    }
+		    Line {
+		    ZOrder		    4
+		    SrcBlock		    "Mux"
+		    SrcPort		    1
+		    DstBlock		    "lz{2,1}"
+		    DstPort		    1
+		    }
+		  }
+		}
+		Block {
+		  BlockType		  Constant
+		  Name			  "b{2}"
+		  SID			  "400"
+		  Position		  [180, 100, 220, 140]
+		  ZOrder		  7
+		  Value			  "-1.1108864419538040380075472057797014713287353515625"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    90
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('b');"
+		    IconFrame		    "off"
+		  }
+		}
+		Block {
+		  BlockType		  Sum
+		  Name			  "netsum"
+		  SID			  "401"
+		  Ports			  [2, 1]
+		  Position		  [260, 70, 300, 110]
+		  ZOrder		  3
+		  Inputs		  "2"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    91
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1"
+		    " 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0"
+		    "+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);disp('+');"
+		    IconFrame		    "off"
+		  }
+		}
+		Block {
+		  BlockType		  Reference
+		  Name			  "purelin"
+		  SID			  "402"
+		  Ports			  [1, 1]
+		  Position		  [340, 70, 380, 110]
+		  ZOrder		  2
+		  LibraryVersion	  "1.97"
+		  SourceBlock		  "neural/Transfer Functions/purelin"
+		  SourceType		  "PURELIN"
+		  SourceProductName	  "Neural Network Toolbox"
+		  SourceProductBaseCode	  "NN"
+		  ContentPreviewEnabled	  off
+		}
+		Block {
+		  BlockType		  Outport
+		  Name			  "a{2}"
+		  SID			  "403"
+		  Position		  [420, 70, 460, 110]
+		  ZOrder		  1
+		  IconDisplay		  "Port number"
+		  InitialOutput		  "0"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    92
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		  }
+		}
+		Line {
+		  ZOrder		  1
+		  SrcBlock		  "a{1} "
+		  SrcPort		  1
+		  DstBlock		  "Delays 1"
+		  DstPort		  1
+		}
+		Line {
+		  ZOrder		  2
+		  SrcBlock		  "Delays 1"
+		  SrcPort		  1
+		  DstBlock		  "LW{2,1}"
+		  DstPort		  1
+		}
+		Line {
+		  ZOrder		  3
+		  SrcBlock		  "LW{2,1}"
+		  SrcPort		  1
+		  DstBlock		  "netsum"
+		  DstPort		  1
+		}
+		Line {
+		  ZOrder		  4
+		  SrcBlock		  "b{2}"
+		  SrcPort		  1
+		  DstBlock		  "netsum"
+		  DstPort		  2
+		}
+		Line {
+		  ZOrder		  5
+		  SrcBlock		  "netsum"
+		  SrcPort		  1
+		  DstBlock		  "purelin"
+		  DstPort		  1
+		}
+		Line {
+		  ZOrder		  6
+		  SrcBlock		  "purelin"
+		  SrcPort		  1
+		  DstBlock		  "a{2}"
+		  DstPort		  1
+		}
+	      }
+	    }
+	    Block {
+	      BlockType		      SubSystem
+	      Name		      "Process Input 1"
+	      SID		      "404"
+	      Ports		      [1, 1]
+	      Position		      [100, 40, 120, 60]
+	      ZOrder		      2
+	      RequestExecContextInheritance off
+	      Variant		      off
+	      Object {
+		$PropName		"MaskObject"
+		$ObjectID		93
+		$ClassName		"Simulink.Mask"
+		Display			"e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1 1 0],["
+		"0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0+e],c3);plo"
+		"t([0 1 1 0 0],[0 0 1 1 0]);"
+		IconFrame		"off"
+	      }
+	      System {
+		Name			"Process Input 1"
+		Location		[100, 100, 600, 900]
+		Open			off
+		PortBlocksUseCompactNotation off
+		ModelBrowserVisibility	off
+		ModelBrowserWidth	200
+		ScreenColor		"white"
+		PaperOrientation	"landscape"
+		PaperPositionMode	"auto"
+		PaperType		"usletter"
+		PaperUnits		"inches"
+		TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
+		TiledPageScale		1
+		ShowPageBoundaries	off
+		ZoomFactor		"100"
+		Block {
+		  BlockType		  Inport
+		  Name			  "x"
+		  SID			  "405"
+		  Position		  [20, 30, 60, 70]
+		  ZOrder		  1
+		  IconDisplay		  "Port number"
+		  PortDimensions	  "4"
+		  SampleTime		  "0.1"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    94
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		  }
+		}
+		Block {
+		  BlockType		  Outport
+		  Name			  "p"
+		  SID			  "406"
+		  Position		  [120, 30, 160, 70]
+		  ZOrder		  2
+		  IconDisplay		  "Port number"
+		  PortDimensions	  "4"
+		  SampleTime		  "0.1"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    95
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		  }
+		}
+		Line {
+		  ZOrder		  1
+		  SrcBlock		  "x"
+		  SrcPort		  1
+		  DstBlock		  "p"
+		  DstPort		  1
+		}
+	      }
+	    }
+	    Block {
+	      BlockType		      SubSystem
+	      Name		      "Process Output 1"
+	      SID		      "407"
+	      Ports		      [1, 1]
+	      Position		      [320, 120, 340, 140]
+	      ZOrder		      4
+	      RequestExecContextInheritance off
+	      Variant		      off
+	      Object {
+		$PropName		"MaskObject"
+		$ObjectID		96
+		$ClassName		"Simulink.Mask"
+		Display			"e = 0.06;c1 = [120 150 230]/255;c2 = ([120 150 230]+0)/383;c3 = ([120 150 230]+128)/383;patch([0 1 1 0],["
+		"0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e 0+e],c3);plo"
+		"t([0 1 1 0 0],[0 0 1 1 0]);"
+		IconFrame		"off"
+	      }
+	      System {
+		Name			"Process Output 1"
+		Location		[100, 100, 600, 900]
+		Open			off
+		PortBlocksUseCompactNotation off
+		ModelBrowserVisibility	off
+		ModelBrowserWidth	200
+		ScreenColor		"white"
+		PaperOrientation	"landscape"
+		PaperPositionMode	"auto"
+		PaperType		"usletter"
+		PaperUnits		"inches"
+		TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
+		TiledPageScale		1
+		ShowPageBoundaries	off
+		ZoomFactor		"100"
+		Block {
+		  BlockType		  Inport
+		  Name			  "a"
+		  SID			  "408"
+		  Position		  [20, 30, 60, 70]
+		  ZOrder		  1
+		  IconDisplay		  "Port number"
+		  PortDimensions	  "1"
+		  SampleTime		  "0.1"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    97
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		  }
+		}
+		Block {
+		  BlockType		  Outport
+		  Name			  "y"
+		  SID			  "409"
+		  Position		  [120, 30, 160, 70]
+		  ZOrder		  2
+		  IconDisplay		  "Port number"
+		  PortDimensions	  "1"
+		  SampleTime		  "0.1"
+		  Object {
+		    $PropName		    "MaskObject"
+		    $ObjectID		    98
+		    $ClassName		    "Simulink.Mask"
+		    Display		    "e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128"
+		    ");patch([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1"
+		    " 1 1-e 1-e 0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		    IconFrame		    "off"
+		  }
+		}
+		Line {
+		  ZOrder		  1
+		  SrcBlock		  "a"
+		  SrcPort		  1
+		  DstBlock		  "y"
+		  DstPort		  1
+		}
+	      }
+	    }
+	    Block {
+	      BlockType		      Goto
+	      Name		      "a{1}"
+	      SID		      "410"
+	      Position		      [380, 40, 400, 60]
+	      ZOrder		      6
+	      GotoTag		      "feedback1"
+	      Object {
+		$PropName		"MaskObject"
+		$ObjectID		99
+		$ClassName		"Simulink.Mask"
+		Display			"plot(cos(0:.1:2*pi),sin(0:.1:2*pi))"
+		IconFrame		"off"
+	      }
+	    }
+	    Block {
+	      BlockType		      Outport
+	      Name		      "Output"
+	      SID		      "411"
+	      Position		      [380, 120, 400, 140]
+	      ZOrder		      3
+	      IconDisplay	      "Port number"
+	      InitialOutput	      "0"
+	      Object {
+		$PropName		"MaskObject"
+		$ObjectID		100
+		$ClassName		"Simulink.Mask"
+		Display			"e = 0.06;c1 = [120 230 180]/255;c2 = ([120 230 180]+0)/(256+128);c3 = ([120 230 180]+128)/(256+128);patch"
+		"([0 1 1 0],[0 0 1 1],c1);patch([0 1 1 1-e 1-e 0+e],[0 0 1 1-e 0+e 0+e],c2);patch([0 0 1 1-e 0+e 0+e],[0 1 1 1-e 1-e "
+		"0+e],c3);plot([0 1 1 0 0],[0 0 1 1 0]);"
+		IconFrame		"off"
+	      }
+	    }
+	    Line {
+	      ZOrder		      1
+	      SrcBlock		      "Input"
+	      SrcPort		      1
+	      DstBlock		      "Process Input 1"
+	      DstPort		      1
+	    }
+	    Line {
+	      ZOrder		      2
+	      SrcBlock		      "Process Output 1"
+	      SrcPort		      1
+	      DstBlock		      "Output"
+	      DstPort		      1
+	    }
+	    Line {
+	      ZOrder		      3
+	      SrcBlock		      "Process Input 1"
+	      SrcPort		      1
+	      DstBlock		      "Layer 1"
+	      DstPort		      1
+	    }
+	    Line {
+	      ZOrder		      4
+	      SrcBlock		      "Layer 1"
+	      SrcPort		      1
+	      DstBlock		      "a{1}"
+	      DstPort		      1
+	    }
+	    Line {
+	      ZOrder		      5
+	      SrcBlock		      " a{1} "
+	      SrcPort		      1
+	      DstBlock		      "Layer 2"
+	      DstPort		      1
+	    }
+	    Line {
+	      ZOrder		      6
+	      SrcBlock		      "Layer 2"
+	      SrcPort		      1
+	      DstBlock		      "Process Output 1"
+	      DstPort		      1
+	    }
+	  }
+	}
+	Block {
+	  BlockType		  Mux
+	  Name			  "Mux"
+	  SID			  "144"
+	  Ports			  [4, 1]
+	  Position		  [55, -72, 60, 52]
+	  ZOrder		  17
+	  ShowName		  off
+	  DisplayOption		  "bar"
+	}
+	Block {
+	  BlockType		  UnitDelay
+	  Name			  "Unit Delay"
+	  SID			  "165"
+	  Position		  [-105, -42, -70, -8]
+	  ZOrder		  18
+	  InputProcessing	  "Elements as channels (sample based)"
+	  SampleTime		  "-1"
+	}
+	Block {
+	  BlockType		  UnitDelay
+	  Name			  "Unit Delay1"
+	  SID			  "166"
+	  Position		  [-10, -12, 25, 22]
+	  ZOrder		  19
+	  InputProcessing	  "Elements as channels (sample based)"
+	  SampleTime		  "-1"
+	}
+	Block {
+	  BlockType		  UnitDelay
+	  Name			  "Unit Delay2"
+	  SID			  "167"
+	  Position		  [-15, 58, 20, 92]
+	  ZOrder		  20
+	  InputProcessing	  "Elements as channels (sample based)"
+	  SampleTime		  "-1"
+	}
+	Block {
+	  BlockType		  Outport
+	  Name			  "u\n"
+	  SID			  "164"
+	  Position		  [365, -17, 395, -3]
+	  ZOrder		  -2
+	  IconDisplay		  "Port number"
+	}
+	Line {
+	  ZOrder		  41
+	  SrcBlock		  "Custom Neural Network"
+	  SrcPort		  1
+	  Points		  [37, 0]
+	  Branch {
+	    ZOrder		    26
+	    DstBlock		    "u\n"
+	    DstPort		    1
+	  }
+	  Branch {
+	    ZOrder		    25
+	    Points		    [0, 126; -301, 0; 0, -41]
+	    DstBlock		    "Unit Delay2"
+	    DstPort		    1
+	  }
+	}
+	Line {
+	  ZOrder		  15
+	  SrcBlock		  "e"
+	  SrcPort		  1
+	  Points		  [15, 0]
+	  Branch {
+	    ZOrder		    17
+	    Points		    [0, 35]
+	    DstBlock		    "Unit Delay"
+	    DstPort		    1
+	  }
+	  Branch {
+	    ZOrder		    16
+	    Points		    [93, 0; 0, 5]
+	    DstBlock		    "Mux"
+	    DstPort		    1
+	  }
+	}
+	Line {
+	  ZOrder		  18
+	  SrcBlock		  "Unit Delay"
+	  SrcPort		  1
+	  Points		  [31, 0]
+	  Branch {
+	    ZOrder		    20
+	    Points		    [0, 30]
+	    DstBlock		    "Unit Delay1"
+	    DstPort		    1
+	  }
+	  Branch {
+	    ZOrder		    19
+	    DstBlock		    "Mux"
+	    DstPort		    2
+	  }
+	}
+	Line {
+	  ZOrder		  21
+	  SrcBlock		  "Unit Delay1"
+	  SrcPort		  1
+	  DstBlock		  "Mux"
+	  DstPort		  3
+	}
+	Line {
+	  ZOrder		  40
+	  SrcBlock		  "Mux"
+	  SrcPort		  1
+	  DstBlock		  "Custom Neural Network"
+	  DstPort		  1
+	}
+	Line {
+	  ZOrder		  23
+	  SrcBlock		  "Unit Delay2"
+	  SrcPort		  1
+	  Points		  [13, 0; 0, -40]
+	  DstBlock		  "Mux"
+	  DstPort		  4
+	}
+      }
+    }
+    Block {
+      BlockType		      SubSystem
+      Name		      "pid roi rac"
+      SID		      "135"
+      Ports		      [1, 1]
+      Position		      [465, 319, 530, 361]
+      ZOrder		      11
+      RequestExecContextInheritance off
+      Variant		      off
+      ContentPreviewEnabled   on
+      System {
+	Name			"pid roi rac"
+	Location		[-8, -8, 1368, 736]
+	Open			off
+	PortBlocksUseCompactNotation off
+	ModelBrowserVisibility	off
+	ModelBrowserWidth	200
+	ScreenColor		"white"
+	PaperOrientation	"landscape"
+	PaperPositionMode	"auto"
+	PaperType		"usletter"
+	PaperUnits		"inches"
+	TiledPaperMargins	[0.500000, 0.500000, 0.500000, 0.500000]
+	TiledPageScale		1
+	ShowPageBoundaries	off
+	ZoomFactor		"100"
+	Block {
+	  BlockType		  Inport
+	  Name			  "e"
+	  SID			  "136"
+	  Position		  [10, 103, 40, 117]
+	  ZOrder		  -1
+	  IconDisplay		  "Port number"
+	}
+	Block {
+	  BlockType		  Reference
+	  Name			  "Discrete Derivative"
+	  SID			  "137"
+	  Ports			  [1, 1]
+	  Position		  [70, 142, 130, 178]
+	  ZOrder		  5
+	  LibraryVersion	  "1.401"
+	  SourceBlock		  "simulink/Discrete/Discrete Derivative"
+	  SourceType		  "Discrete Derivative"
+	  SourceProductName	  "Simulink"
+	  SourceProductBaseCode	  "SL"
+	  ContentPreviewEnabled	  on
+	  gainval		  "1.0"
+	  ICPrevScaledInput	  "0.0"
+	  InputProcessing	  "Elements as channels (sample based)"
+	  OutMin		  "[]"
+	  OutMax		  "[]"
+	  OutDataTypeStr	  "Inherit: Inherit via internal rule"
+	  OutputDataTypeScalingMode "Inherit via internal rule"
+	  OutDataType		  "fixdt(1, 16)"
+	  OutScaling		  "2^-10"
+	  LockScale		  off
+	  RndMeth		  "Floor"
+	  DoSatur		  off
+	}
+	Block {
+	  BlockType		  DiscreteIntegrator
+	  Name			  "Discrete-Time\nIntegrator"
+	  SID			  "138"
+	  Ports			  [1, 1]
+	  Position		  [130, 77, 165, 113]
+	  ZOrder		  4
+	  SampleTime		  "-1"
+	  ICPrevOutput		  "DiscIntNeverNeededParam"
+	  ICPrevScaledInput	  "DiscIntNeverNeededParam"
+	}
+	Block {
+	  BlockType		  Gain
+	  Name			  "Gain"
+	  SID			  "139"
+	  Position		  [185, 85, 215, 115]
+	  ZOrder		  1
+	  Gain			  "Ki"
+	  ParamDataTypeStr	  "Inherit: Inherit via internal rule"
+	  OutDataTypeStr	  "Inherit: Inherit via internal rule"
+	  SaturateOnIntegerOverflow off
+	}
+	Block {
+	  BlockType		  Gain
+	  Name			  "Gain1"
+	  SID			  "140"
+	  Position		  [145, 0, 175, 30]
+	  ZOrder		  2
+	  Gain			  "Kp"
+	  ParamDataTypeStr	  "Inherit: Inherit via internal rule"
+	  OutDataTypeStr	  "Inherit: Inherit via internal rule"
+	  SaturateOnIntegerOverflow off
+	}
+	Block {
+	  BlockType		  Gain
+	  Name			  "Gain2"
+	  SID			  "141"
+	  Position		  [160, 140, 190, 170]
+	  ZOrder		  3
+	  Gain			  "Kd"
+	  ParamDataTypeStr	  "Inherit: Inherit via internal rule"
+	  OutDataTypeStr	  "Inherit: Inherit via internal rule"
+	  SaturateOnIntegerOverflow off
+	}
+	Block {
+	  BlockType		  Sum
+	  Name			  "Sum"
+	  SID			  "142"
+	  Ports			  [3, 1]
+	  Position		  [290, 80, 310, 100]
+	  ZOrder		  6
+	  ShowName		  off
+	  IconShape		  "round"
+	  Inputs		  "+++"
+	  InputSameDT		  off
+	  OutDataTypeStr	  "Inherit: Inherit via internal rule"
+	  SaturateOnIntegerOverflow off
+	}
+	Block {
+	  BlockType		  Outport
+	  Name			  "u\n"
+	  SID			  "143"
+	  Position		  [360, 83, 390, 97]
+	  ZOrder		  -2
+	  IconDisplay		  "Port number"
+	}
+	Line {
+	  ZOrder		  1
+	  SrcBlock		  "e"
+	  SrcPort		  1
+	  Points		  [2, 0]
+	  Branch {
+	    ZOrder		    2
+	    Points		    [0, 50]
+	    DstBlock		    "Discrete Derivative"
+	    DstPort		    1
+	  }
+	  Branch {
+	    ZOrder		    3
+	    Points		    [46, 0; 0, -15]
+	    Branch {
+	      ZOrder		      4
+	      DstBlock		      "Discrete-Time\nIntegrator"
+	      DstPort		      1
+	    }
+	    Branch {
+	      ZOrder		      5
+	      Points		      [0, -80]
+	      DstBlock		      "Gain1"
+	      DstPort		      1
+	    }
+	  }
+	}
+	Line {
+	  ZOrder		  6
+	  SrcBlock		  "Discrete-Time\nIntegrator"
+	  SrcPort		  1
+	  DstBlock		  "Gain"
+	  DstPort		  1
+	}
+	Line {
+	  ZOrder		  7
+	  SrcBlock		  "Discrete Derivative"
+	  SrcPort		  1
+	  Points		  [10, 0]
+	  DstBlock		  "Gain2"
+	  DstPort		  1
+	}
+	Line {
+	  ZOrder		  8
+	  SrcBlock		  "Gain1"
+	  SrcPort		  1
+	  Points		  [120, 0]
+	  DstBlock		  "Sum"
+	  DstPort		  1
+	}
+	Line {
+	  ZOrder		  9
+	  SrcBlock		  "Gain"
+	  SrcPort		  1
+	  Points		  [33, 0; 0, -10]
+	  DstBlock		  "Sum"
+	  DstPort		  2
+	}
+	Line {
+	  ZOrder		  10
+	  SrcBlock		  "Gain2"
+	  SrcPort		  1
+	  Points		  [105, 0]
+	  DstBlock		  "Sum"
+	  DstPort		  3
+	}
+	Line {
+	  ZOrder		  11
+	  SrcBlock		  "Sum"
+	  SrcPort		  1
+	  DstBlock		  "u\n"
+	  DstPort		  1
+	}
+      }
+    }
+    Line {
+      ZOrder		      3
+      SrcBlock		      "Add"
+      SrcPort		      1
+      DstBlock		      "pid roi rac"
+      DstPort		      1
+    }
+    Line {
+      ZOrder		      4
+      SrcBlock		      "pid roi rac"
+      SrcPort		      1
+      DstBlock		      "Saturation"
+      DstPort		      1
+    }
+    Line {
+      ZOrder		      7
+      SrcBlock		      "bon nuoc don"
+      SrcPort		      1
+      Points		      [19, 0]
+      Branch {
+	ZOrder			25
+	Points			[0, 15]
+	Branch {
+	  ZOrder		  6
+	  DstBlock		  "Scope"
+	  DstPort		  1
+	}
+	Branch {
+	  ZOrder		  5
+	  Points		  [0, 86; -356, 0; 0, -96]
+	  DstBlock		  "Add"
+	  DstPort		  2
+	}
+      }
+      Branch {
+	ZOrder			24
+	Points			[0, -86; -66, 0; 0, -74]
+	DstBlock		"Mux"
+	DstPort			2
+      }
+    }
+    Line {
+      ZOrder		      8
+      SrcBlock		      "gia tri dat"
+      SrcPort		      1
+      DstBlock		      "Add"
+      DstPort		      1
+    }
+    Line {
+      ZOrder		      11
+      SrcBlock		      "Saturation"
+      SrcPort		      1
+      Points		      [11, 0]
+      Branch {
+	ZOrder			10
+	Points			[0, -65]
+	DstBlock		"Scope1"
+	DstPort			1
+      }
+      Branch {
+	ZOrder			9
+	DstBlock		"bon nuoc don"
+	DstPort			1
+      }
+    }
+    Line {
+      ZOrder		      14
+      SrcBlock		      "Saturation1"
+      SrcPort		      1
+      Points		      [11, 0]
+      Branch {
+	ZOrder			13
+	Points			[0, -65]
+	DstBlock		"Scope3"
+	DstPort			1
+      }
+      Branch {
+	ZOrder			12
+	DstBlock		"bon nuoc don1"
+	DstPort			1
+      }
+    }
+    Line {
+      ZOrder		      15
+      SrcBlock		      "gia tri dat1"
+      SrcPort		      1
+      DstBlock		      "Add1"
+      DstPort		      1
+    }
+    Line {
+      ZOrder		      18
+      SrcBlock		      "bon nuoc don1"
+      SrcPort		      1
+      Points		      [19, 0; 0, 15]
+      Branch {
+	ZOrder			17
+	DstBlock		"Scope2"
+	DstPort			1
+      }
+      Branch {
+	ZOrder			16
+	Points			[0, 20]
+	Branch {
+	  ZOrder		  22
+	  DstBlock		  "Mux"
+	  DstPort		  1
+	}
+	Branch {
+	  ZOrder		  21
+	  Points		  [0, 66; -356, 0; 0, -96]
+	  DstBlock		  "Add1"
+	  DstPort		  2
+	}
+      }
+    }
+    Line {
+      ZOrder		      19
+      SrcBlock		      "neuron\n"
+      SrcPort		      1
+      DstBlock		      "Saturation1"
+      DstPort		      1
+    }
+    Line {
+      ZOrder		      20
+      SrcBlock		      "Add1"
+      SrcPort		      1
+      DstBlock		      "neuron\n"
+      DstPort		      1
+    }
+    Line {
+      ZOrder		      26
+      SrcBlock		      "Mux"
+      SrcPort		      1
+      Points		      [50, 0; 0, 30]
+      DstBlock		      "Scope4"
+      DstPort		      1
+    }
+  }
+}
